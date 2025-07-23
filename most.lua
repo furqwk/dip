@@ -1,1 +1,2590 @@
-return(function(...)local J={"\086\117\078\097\106\098\090\069\106\055\114\110","\074\077\118\113\074\077\067\089","\122\083\066\061","\047\080\061\061";"\122\098\078\113","\122\083\084\061","\104\066\055\103\086\048\084\061";"","\121\086\088\108\074\086\070\112","\069\043\076\068\122\053\084\061";"\106\117\052\089\100\066\121\099\121\065\061\061";"\100\053\052\068\104\086\088\102","\111\115\069\076\083\109\118\084\122\069\111\084\082\065\072\068\052\088\102\065\088\097\066\067\105\104\087\099\077\054\087\043\110\102\054\056\111\103\049\068\066\070\111\098\072\066\048\088\081\112\068\114\115\089\070\047\047\114\079\047\050\079\075\099\105\085\101\115\087\103\048\084\122\076\089\074\115\084\043\118\055\054\066\047\120\073\077\053\117\075\114\117\089\084\086\099\052\078\076\114\090\111\112\065\097\087\109\061","\043\055\118\102\074\108\061\061";"\098\056\048\106\110\116\066\073\111\084\086\051\066\080\061\061";"\069\098\099\057\074\077\118\068\069\067\118\103\069\065\061\061";"\097\087\070\112\049\043\122\052\100\113\101\116\121\087\057\072\088\078\052\071\117\106\116\113\121\072\061\061","\111\066\103\066\070\089\103\052\121\099\109\108\100\066\076\066\078\077\082\061";"\100\048\067\113\069\098\118\090","\121\098\118\057\121\117\076\103\122\048\100\061","\100\077\078\089\122\086\078\089\074\043\052\085\074\048\110\099","\114\099\070\083\114\077\067\078\106\109\090\075\111\077\070\043","\121\098\067\105\122\098\111\061","\047\105\080\099\069\081\101\103\047\080\061\061";"\069\098\099\112\072\102\076\083\054\083\052\072\106\083\080\088\100\108\061\061","\043\055\118\090\069\043\052\085\121\098\067\105\122\098\111\061";"\054\071\085\081\098\111\115\049\043\087\087\105\055\113\066\111\087\099\103\077\048\068\068\120\048\052\068\110\047\113\121\106\121\100\052\074\077\090\075\102\072\050\102\119\102\106\052\089\083\112\120\112\087\048\043\110\115\120\049\048\119\117\051\075\083\090\115\090\077\113\078\101\106\053\117\054\080\078\112\100\120\073\109\079\106\105\090\098\074\084\121\049\065\102\120\076\118\048\107\118\097\087\089\065\074\077\121\069\076\117\118\068\068\113\081\111\078\117\050\085\108\053\057\104\071\068\117\115\080\098\087\070\052\117\078\078\055\074\116\081\054\112\122\110\047\088\106\099\090\086\083\097\069\082\070\084\115\087\075\066\074\083\069\089\072\043\104\049\114\072\066\118\121\097\078\071\053\067\119\047\114\105\113\049\069\120\113\122\098\110\108\101\081\076\049\078\120\077\084\049\084\057\066\065\117\118\120\102\118\053\102\106\103\077\103\047\106\071\057\051\099\074\080\122\056\079\048\057\067\043\074\050\068\110\121\065\111\106\081\069\098\057\065\081\077\103\109\122\065\119\071\070\114\056\056\057\052\069\051\075\055\100\110\085\085\107\099\065\049\070\079\113\085\112\114\099\053\055\066\087\050\121\080\103\081\075\088\107\075\081\090\066\071\111\071\090\052\117\051\069\085\081\111\110\113\066\073\065\074\043\068\069\116\050\115\099\067\048\110\114\043\072\104\097\121\043\071\090\102\049\056\104\051\067\069\077\079\085\111\073\055\105\119\082\055\071\065\080\043\099\104\057\056\072\117\047\084\116\049\066\102\071\047\120\115\099\072\102\074\090\052\077\073\103\066\101\114\105\085\054\099\052\108\121\106\088\086\108\115\084\075\120\104\075\048\085\075\055\114\049\110\053\043\102\087\099\081\117\113\113\070\109\112\074\085\086\079\120\056\065\054\088\104\106\069\043\120\079\071\108\101\051\065\068\120\080\075\113\084\052\099\078\112\109\097\067\056\102\077\103\113\047\086\088\076\077\072\120\110\115\082\082\104\077\082\102\099\119\080\049\075\097\100\084\105\101\072\082\055\108\103\097\054\112\082\099\069\119\100\113\054\119\065\104\087\097\073\077\069\084\102\067\050\088\053\079\103\081\090\117\089\108\114\119\099\112\052\112\086\082\106\082\077\114\119\110\106\087\070\053\099\103\053\083\066\113\115\071\119\108\088\112\066\116\047\079\108\087\054\103\103\085\075\066\047\051\053\076\076\050\104\100\122\090\057\102\090\047\108\073\088\076\099\072\098\087\112\103\054\122\081\066\076\069\054\086\108\061","\043\055\118\103\122\048\052\099\054\065\061\061","\069\048\110\115\122\053\084\061";"\121\048\052\087\071\089\085\113\070\086\099\112\106\083\070\051";"\122\102\099\104\114\099\076\113\122\102\085\088\111\109\082\061";"\078\098\067\090\100\098\078\068\084\066\052\099\121\098\078\087\121\098\078\109\084\072\061\061","\100\098\070\085\122\098\108\061";"\074\053\070\088\069\077\110\067\111\066\103\097\074\089\067\072\111\117\080\061","\069\053\070\055\074\080\061\061","\122\086\099\113\043\053\076\085\100\065\061\061";"\122\086\067\089\104\065\061\061";"\100\048\078\090\122\053\069\099","\054\086\076\083\100\102\070\070\121\066\085\048\078\053\099\077","\069\077\067\090\069\072\061\061","\114\048\121\081\078\099\078\052\071\099\069\097\078\077\069\108\047\098\100\061","\078\077\078\105\104\098\118\115\104\108\061\061";"\047\066\088\074\121\072\061\061";"\122\111\052\114\111\066\085\078\106\111\076\067\072\109\085\098","\074\102\099\089\069\072\061\061","\121\098\118\113\121\086\055\105\069\043\084\061","\114\055\069\078\052\109\099\104\114\109\052\076\052\067\070\074\121\080\061\061";"\043\055\118\082\069\086\056\061";"\078\043\070\099\100\048\088\085\122\086\111\061","\074\077\085\085\100\080\061\061","\122\098\118\085\069\117\070\089\100\048\099\113\069\108\061\061","\069\077\055\085\121\098\070\101";"\052\111\078\071\111\043\114\056\121\086\103\071\074\102\079\077\122\086\120\061","\049\111\066\118\043\114\090\097\047\106\080\121\072\068\053\086\103\085\072\061","\078\098\120\055\078\086\099\112\086\066\118\089\074\089\100\110\078\080\061\061"}local function l(l)return J[l-((905002+(-571019-695510))-(-377755))]end for l,Y in ipairs({{-761970-(-761971);281456-281401},{-952156+952157,-908477+908485},{-813314+813323,-41138-(-41193)}})do while Y[701918+-701917]<Y[-497707+497709]do J[Y[-574438-(-574439)]],J[Y[-596825-(-596827)]],Y[233739-233738],Y[-334372+(373662+-39288)]=J[Y[-35359-(-35361)]],J[Y[(-798326+1269538)-471211]],Y[445039+-445038]+(94479-94478),Y[(-1031637-(687948+-1210645))+(823677-314735)]-((608984+-1333424)-(-724441))end end do local l=table.insert local Y=J local c={["\051"]=257877+-257819;l=(-324832-(-352375))-27495;["\057"]=(-816161+(-4336+579705))+240843,h=-911169-(-911195);["\047"]=291941+((1572267-929702)+-934492);d=-316892+316920;["\054"]=5074+-5044,c=(-442117-(-459173+1004529))-(-987510),k=-102239-(-102302),E=132300+-132275;i=126921+(246342-373229),A=311205-311205,I=((-943690-(-817295))-(-317091))+-190685,w=-771794+771825;T=707360-707352;G=-554627-(-554646),v=-326011+326072,["\050"]=-355337-(-355396);n=-968399+(24715+943733);p=935179-(999597+-64461);x=516833+-516773;S=(((-721126+687616)-(-291858))-(-493131+828634))+(651024+(71444-645310));["\052"]=((-564983-(-485193))+-86369)+166176,Q=210962-210960,["\055"]=-237220+237273,t=(367624+664731)+(-244741+(-1444261-(-329410-327279)));j=-691948-(-691966),b=((-612278+(((158724-(-778322))-(-301462))-993301))-(-322907))-(-44170);Z=-369907+369952,y=-969979+970008;m=(245628-(-290602))+(409291+-945485),["\053"]=371304+-371249,K=-926953-(105452+-1032415);F=-630844-(-630857),D=-34480-(-34530);r=-601815-(-601827);N=-742307-(-742328),u=528827+(-596319+67499),e=-326226-(-326266);s=768500-768453;["\056"]=-55551+55607,["\048"]=-824841+824879,J=223005+-222981;V=511691-511669;W=-159648-(-159683);a=-745381+745396,B=-22434-(-22438);g=(764033+-262276)+-501716;H=-77679+(596335-(868526-349886)),Y=609959-609907;z=-381522-(-381549),["\043"]=156334+-156311;L=-816739+816748;C=(806457+-334529)-471923;R=34058-34014,["\049"]=(-244382-331004)-(-575448),f=-557727-(-557766);M=-696272+696326,q=(659329+(-1599284-(-613689+139401)))-(-465713),U=(968414+-1589321)-(-620940);O=-882876-((-800466+((-41942-(-283205))+-103991))-219683);o=4216+((((-600449+1668008)-209514)-937846)+75605),X=25291+-25234;P=((530037+(-1153122-(-836184)))-(-441635))-654702}local e=table.concat local W=math.floor local n=string.len local O=type local D=string.char local P=string.sub for J=-752432+752433,#Y,(-599219-(-663941))-64721 do local j=Y[J]if O(j)=="\115\116\114\105\110\103"then local O=n(j)local T={}local N=1014391+(431-1014821)local m=(-846462+1150612)+-304150 local i=-310065+310065 while N<=O do local J=P(j,N,N)local Y=c[J]if Y then m=m+Y*((683271-754544)+(375663-304326))^((418625+(-533542+114920))-i)i=i+((-214519-(-199151))-(-15369))if i==-526580-((-14832-(1165466-265227))+388487)then i=272980+-272980 local J=W(m/(782467+-716931))local Y=W((m%(-808131-(-258126-615541)))/(949840+(718070+(-2677302-(-1009648)))))local c=m%(-316336-(-316592))l(T,D(J,Y,c))m=1046115-(234332+811783)end elseif J=="\061"then l(T,D(W(m/(-599069+664605))))if N>=O or P(j,N+(911661-911660),N+(979609+-979608))~="\061"then l(T,D(W((m%(983957+-918421))/(609576-(560324-(-48996))))))end break end N=N+(297471-297470)end Y[J]=e(T)end end end return(function(J,c,e,W,n,O,D,j,h,L,M,T,m,i,N,P,t,b,Y)P,Y,M,t,h,N,L,T,b,i,j,m={},function(Y,e,W,n)local a,V,b,j,g,C,k,G,Z,v,y,d,m,s,R,z,Q,u,f,q,F,i,r,U,o,N,D,S,p,A,B,X,H,w while Y do if Y<7848552-(-266447)then if Y<((280280-297872)-(569927+-1143145))+2581794 then if Y<-268028+1982264 then if Y<153193-(-957447)then if Y<1367672-341532 then if Y<140520+406795 then if Y<362237+-54573 then Y=true Y=Y and 1003780+5418195 or 838338+9297494 else j=P[W[937187-(905210+31976)]]D=#j j=-495929+495929 Y=D==j Y=Y and-535729+10192624 or(455690-(-449269))+(9367961-(-833132))end else i=nil Q=nil w=nil Y=14601505-(-431200)end else if Y<385492+721948 then j=nil P[W[-227075+(69193-(-157887))]]=D Y=1042045+(5576601-(-684935))else N=l((1366714-746000)+-604471)D=842104+-440282 m=645370+7775401 j=N^m Y=D-j j=Y D=l(-979414-(-995651))Y=D/j D={Y}Y=J[l(-897028+913311)]end end else if Y<781643-(-449990)then if Y<1970242-744060 then D=l((1711262-768915)-926101)Y=J[D]j=l(-891624-(-907892))D=Y(j)Y=J[l(-256711-(-348963+75991))]D={}else m=P[W[-245759-(-245765)]]N=m==j D=N Y=(-880468+2460519)-489728 end else if Y<860063+612916 then Y=16236263-(1106310-(300504+610729))g=o a=g q[g]=a g=nil else D={}Y=J[l(-632013+648290)]end end end else if Y<(1529192-(-751790))-(736885-803639)then if Y<(-609559+3670401)-990104 then if Y<-707055+2691933 then if Y<2517227-612384 then C=42757-42744 Y=925897+10180155 N=P[W[-749137-(-749140)]]m=276391+-276359 G=1034023-1034021 j=N%m i=P[W[498070+-498066]]Q=P[W[-352247-(-352249)]]g=P[W[386098-(810382+-424287)]]q=g-j g=-993977-(-664424+-329585)z=q/g s=C-z d=G^s w=Q/d b=i(w)i=4294574529-(535837-(167398+761206))m=b%i G=997685-997429 b=((195968-(908486-((743596+-1544431)-(-825166))))-(-72754))+615435 i=b^j N=m/i i=P[W[(798996+-164096)+-634896]]d=248854-248853 Q=N%d d=-78644+4295045940 w=Q*d b=i(w)Q=488268+((-184459+-682818)-(-444545))i=P[W[760028+-760024]]C=1020616+((-2590326-(-730443))-(-839523))w=i(N)m=b+w j=nil b=(971526-72902)+-833088 i=m%b w=m-i b=w/Q Q=300985+-300729 w=i%Q d=i-w m=nil Q=d/G N=nil G=212054+-211798 d=b%G s=b-d G=s/C b=nil s={w,Q;d,G}i=nil Q=nil P[W[-186963+(-155800+342764)]]=s d=nil w=nil G=nil else m=107267+-107129 N=P[W[-766856-(145288+-912147)]]j=N*m Y=346940+3066959 N=65708+-65451 D=j%N P[W[-435999-(-436002)]]=D end else Y=D and((4123735-(-716949))-(-83731))-(-607732)or 620131+6683450 end else if Y<3024427-904100 then s=L(s)C=nil b=L(b)Q=L(Q)g=nil m=L(m)G=L(G)w=nil w=l(817854-801581)N=L(N)G=l(-541718+(-394612+(((453197-820962)+1255154)+65189)))N=nil q=nil d=nil o=L(o)i=L(i)d=l(507714-491455)m=nil o=699085+-698829 b=J[w]z=nil w=l(((-421327+363355)+814663)-740426)i=b[w]b=T()Y=15111696-(-929490)C={}P[b]=i Q=l(49686+-33413)g=308211+-308210 w=J[Q]Q=l(887296+-871041)i=w[Q]s=T()q={}Q=J[d]d=l(-173454-(-323710+133982))w=Q[d]d=J[G]G=l(-10916-((-624931-(105258+-412976))-(-290066)))Q=d[G]d=-634992-(-634992)G=T()P[G]=d z=T()d=167373+-167371 F=o P[s]=d d={}o=1004245+-1004244 u=o P[z]=C C=996188-(532995+463193)o=((-202456+204564)+-469087)+466979 y=u<o o=g-u else Y=(-353578+1284820)+6749830 end end else if Y<56804+2790490 then if Y<254756+2275644 then X=955861+-955859 v=Z[X]X=P[p]V=v==X Y=636249+((-858035-(-959873))+15288316)k=V else P[N]=k X=P[f]r=-232417+232418 v=X+r V=Z[v]U=C+V V=-464765+465021 Y=U%V v=P[a]C=Y V=z+v v=358466-(502990-144780)Y=-304165+12150405 U=V%v z=U end else if Y<3436003-482859 then u=T()y=l(-96111-(372517+-484901))P[u]=B D=J[y]Z=169143+-169141 y=l(609638-593383)f=-763821-(-483687-280389)Y=D[y]a=-556638-(-204956-351782)y=((-605018-(-543197))+-475865)-(-537687)D=Y(y,a)y=T()P[y]=D Y=P[Q]r=537110-537110 a=448641+-448641 D=Y(a,f)a=T()V=l(-148752+165008)P[a]=D f=-616570-(-616571)Y=P[Q]H=((312622+23969)-(-611647))-938238 R=P[y]p=-303829+303830 D=Y(f,R)f=T()P[f]=D D=P[Q]R=D(p,Z)D=-100304+((-190662+-246992)+537959)Y=R==D Z=l(866321+-850081)R=T()D=l(-794042+810302)P[R]=Y U=J[V]v=P[Q]X={v(r,H)}V=U(c(X))U=l(673094-656854)k=V..U Y=l(((-163571+-292333)+1009596)+-537421)Y=g[Y]p=Z..k Y=Y(g,D,p)Z=l(-596615-(-612884))p=T()P[p]=Y k=M(10065778-575551,{Q,u,s,m,N,o;R;p;y,f,a,G})D=J[Z]Z={D(k)}Y={c(Z)}Z=Y Y=P[R]Y=Y and 14570669-(-805341)or 10468864-696563 else A=l(825579-809331)S=J[A]A=l(646575-630294)B=S[A]d=s S=B(j,d)B=P[W[54440-54434]]A=B()o=S+A g=o+w o=180534+-180278 Y=(981875-362577)+2971639 q=g%o w=q d=nil o=m[N]A=-499765+((-1002286+468274)-(-1033778))S=w+A B=i[S]g=o..B m[N]=g end end end end else if Y<4376426-(-983395)then if Y<-814802+(4012047-(-266246+-350475))then if Y<3201076-(-348338)then if Y<922368+2300544 then if Y<2266076-(-883449)then Y=P[W[279763+-279762]]m=Y j=e[955252+-955251]N=e[153938+(850779-1004715)]Y=m[N]Y=Y and 4784726-(-789035)or 5466706-548009 else Y=true Y=Y and(-955842+5988016)-520230 or 1153461-(501128-830711)end else N=P[W[574560+-574557]]m=686060-686059 j=N~=m Y=j and((-449927+(-759914+2873624))-11541)-(-232469)or-521634+2465859 end else if Y<(87300+(3529688-779342))-(-804671)then s=s+C q=not z d=s<=G d=q and d q=s>=G q=z and q d=q or d q=-515703+3535437 Y=d and q d=1310164-762831 Y=Y or d else Y=P[W[-1026880+1026881]]N=m G=-439171+439426 d=663619+-663619 Q=Y(d,G)j[N]=Q Y=11650040-69175 N=nil end end else if Y<758867+3773991 then if Y<4479591-42694 then u=not F B=B+A D=B<=S D=u and D u=B>=S u=F and u D=u or D u=2887484-(663851-720191)Y=D and u D=-620238+10919829 Y=Y or D else A=(712257-(-121888))+-834144 F=709665-(-72664+((1748119-829723)-136073))Y=P[Q]S=Y(A,F)Y=l(261647+-245405)F=l((-1065189-(-789574))+291857)J[Y]=S A=J[F]F=(817813+-749453)+-68358 Y=A>F Y=Y and 4739090-(-55547)or 10655849-543986 end else if Y<-819122+5736833 then A=l(((-933212+(-771906+1852330))-457199)-(-314632+-11611))Y=J[A]u=l(1024108-1007869)F=J[u]A=Y(F)Y=l(925726+-909484)J[Y]=A Y=(((1055769-(-332318))-(-503211+1335669))+(338629-262657))+13251956 else Q=-818967-(-1429752-(-610530))Y={}P[W[519344-(-96610-(-615952))]]=Y D=P[W[-68109-(-146254+78142)]]i=D d=l((-560397-316804)+893449)b=35184371075781-(834930+-1847981)D=N%b P[W[1041609+-1041605]]=D s=-332659-(-1025539-(-692879))w=N%Q Q=1032094-(1704494-672402)b=w+Q P[W[((-130846+(954088+-777170))+-333144)+287077]]=b Q=J[d]d=l(247854-231613)w=Q[d]Q=w(j)C=s w=l(-75322+91566)m[N]=w Y=157611+3433326 s=-596505-(-863047+266542)w=472184+-472161 d=-137283-(-137284)z=C<s s=d-C G=Q end end end else if Y<6271527-(-929765)then if Y<857257+5530413 then if Y<-588758+(6221236-(-331022))then if Y<((((7714779-400962)-808852)-953631)-27611)-(-20110)then i=l((-261040+-58791)+(976112+-640025))d=l(980742+-964473)D=l(916921-900639)Y=J[D]j=P[W[591945-591941]]m=J[i]Q=J[d]G=h(-506690+15885874,{})d={Q(G)}w={c(d)}Q=-482617+482619 b=w[Q]i=m(b)m=l((413597-986054)-(-588717))N=j(i,m)j={N()}D=Y(c(j))j=D N=P[W[-496878+496883]]Y=N and 2146313-919515 or(1005758-1040462)+1125027 D=N else Y=-369086+15401791 end else D=l(-975688+991930)j=l(-1679-(-17918))Y=J[D]D=J[j]j=l(-699493-(-715732))J[j]=Y j=l((3122-(((722852-124616)+-828010)-511843))+-728497)J[j]=D Y=-757745+((-779329-(-907393))+8310753)j=P[W[(1064974-17823)-1047150]]N=j()end else if Y<6799468-339546 then Y=3923141-773484 else o=#q F=780977-(1566009-(1014408-229376))Y=(106467+749156)+15850902 g=o==F end end else if Y<-259766+8062982 then if Y<-624294+8142371 then Y=P[W[246599-246592]]Y=Y and 10413042-368071 or(((-987796+1567706)+-624635)+13721592)-867075 else Y=true Y=Y and 5317977-(-986742)or-857485+8751983 end else if Y<(418181-509367)+(1038558+6947792)then Y=J[l(645883+(129064-(901261+-142550)))]D={}else P[N]=D Y=12050300-204060 end end end end end else if Y<-16692+11780086 then if Y<((-951004-(-832509))+-457120)+10639050 then if Y<-163734+9173652 then if Y<-42365+8804050 then if Y<763075+(7084187-(-725629))then if Y<8907417-604810 then V=-556079+556080 U=Z[V]Y=2010103-(-710345)k=U else P[N]=B Y=P[N]Y=Y and 127954+13079050 or 9644649-720215 end else Y=-311513+13494045 w=P[b]D=w end else if Y<910428+7928840 then Y=s Y=G and 13624522-(-538484)or-491810+16103834 D=G else Y=true Y=10126076-(-9756)end end else if Y<603743+9057407 then if Y<(222346+8564599)-(-833227)then N=P[W[578882+(-472134-106747)]]i=344381+-344380 b=704810-(-1034288+1739096)m=N(i,b)N=-1036947+1036948 j=m==N D=j Y=j and((-702518-(-483393))+-331932)+(1905777-(-703675))or 1017159+14767950 else N=P[W[4754+(840833-845585)]]m=-323403+(151831+171741)j=N*m N=-164324+7717599900443 D=j+N j=710282+35184371378550 N=(-122355+-163372)+285728 Y=D%j P[W[(504368-807717)-(-303351)]]=Y j=P[W[-154318+(565879-411558)]]D=j~=N Y=1007341-(-285981-650903)end else if Y<10755205-741570 then U=P[N]k=U Y=U and-699408+(211073+(556604+8099600))or 799074+1921374 else j=l(264804+-248558)Y=J[j]N=P[W[-419723+419731]]m=890888+-890888 j=Y(N,m)Y=(-947651+460212)+13297231 end end end else if Y<(-410704-63744)+11497752 then if Y<(211117+10064315)-(276833+-290568)then if Y<9483039-(-749189)then if Y<(315832+(-986201+11028876))-239105 then F=l(-288635+304877)Y=J[F]F=l(-1006596+1022835)J[F]=Y Y=((-797604+652990)+(202775+14581524))-756128 else Y=t(165846+((3254720-((1077738-555519)-(-584003-(-541905))))-624036),{i})S={Y()}Y=J[l((-713491+((-900976-(-435509))+1689306))+-494082)]D={c(S)}end else o=#q F=(-40606+-907612)-(-948218)g=o==F Y=g and 836913+10901700 or 17143439-436914 end else if Y<10445190-(-86717)then S=P[N]Y=S and(-399166+548754)+(1029021+13088642)or(-717520+467358)+((-951903+8985760)-(-557929))B=S else Y=P[W[620377+-620367]]N=P[W[(204606-360040)-(-155445)]]j[Y]=N Y=P[W[-119274-(-119286)]]N={Y(j)}D={c(N)}Y=J[l((-373174+-490551)+(-246481+1126476))]end end else if Y<-855703+12309629 then if Y<12181725-979767 then m=l(128804-((8230-(-753180-(-461049)))-(1015930-(-968324+1796438))))N=J[m]m=l(-555520-(-571794))j=N[m]m=P[W[(-55193-(-778289))+-723095]]Y=J[l(475201+-458943)]N={j(m)}D={c(N)}else X=(405337+135330)+((-133959+954511)+-1361218)v=Z[X]X=false U=Y V=v==X k=V Y=V and-856723+(3461618-104135)or 15741613-(605853+-890643)end else if Y<11296156-((-1046807+1474149)+(-351811+-433405))then m=m+b Q=not w N=m<=i N=Q and N Q=m>=i Q=w and Q N=Q or N Q=-755230+4459735 Y=N and Q N=(((-290117+-144098)+((394670+(37580-(-294002)))+((-254345+11684249)-465061)))-(-419531))-(518667-(-990633-(-515775)))Y=Y or N else V=nil Q=nil g={}o=T()P[o]=g F=M(-74373-(-605095),{o;G;s,b})R=l(-664966+681230)u=T()Z=l(518989-(-1029897+(-1018348+2550972)))g=T()y=l(432613+(608147-(-648423+1672926)))P[g]=F F={}a={}P[u]=F F=J[y]p=P[u]w=nil f={[R]=p;[Z]=V}y=F(a,f)F=t((-279018+204892)+3221036,{u;o,z,G,s,g})d=nil i=nil G=L(G)b=L(b)s=L(s)u=L(u)z=L(z)C=nil q=nil m=y Q=l(-795757+811992)o=L(o)G=28328444281454-277933 s=((869710-((((-721304-(-1232890-(-667770)))+((605564+-379543)-87233))-847232)+920857))+183019)+9404963806745 N=F g=L(g)d=22012154492103-(-634232)w=N(Q,d)D={}d=l(-1018992-(-1035243))b=m[w]C=l(-422330+438606)Q=N(d,G)G=l(556249-539996)w=m[Q]Q=l(-378354+394617)i={b,w}b=l(863912+-847682)J[b]=i d=3566175308125-(-930820)w=N(Q,d)Y=J[l((601033-576299)+-8480)]b=m[w]w=l(((-699732+1722735)-451950)+-554775)J[w]=b Q=l(-575229-(-591501))w=331418+-331408 J[Q]=w d=N(G,s)Q=m[d]G=l(-588612-(-604844))d=l(-614460+630712)J[d]=Q d=J[G]o=1022780+26676754302031 g=l(833660-817411)s=J[C]q=N(g,o)z=m[q]q=l((-276887+267351)+25783)N=nil q=s[q]m=nil C={q(s,z)}G=d(c(C))d=G()end end end end else if Y<23584+14813635 then if Y<14780765-661297 then if Y<643749+12555317 then if Y<-680386+13499558 then if Y<(12704392-(-27776))-(298998+211690)then y=L(y)p=L(p)Y=-535346+4951551 R=L(R)Z=nil a=L(a)u=L(u)f=L(f)else m=P[W[434356-434347]]N=-393864-(-393865)Y={}i=m m=(-557390-(-562548+-8520))+(197919+-211596)j=Y b=m m=((8728+(776487+(-723800-(283253-504812))))-420379)-(-137405)w=b<m m=N-b Y=(775964+-1201564)+(-33954+12040419)end else w=D Q=l(-618940-(-635213))D=J[Q]d=l(-498758-(-515017))Q=l(-35006+(1068476-1017215))Y=D[Q]z=l((1044043-798669)-229115)Q=T()P[Q]=Y D=J[d]d=l(984033-967795)Y=D[d]C=J[z]G=C d=Y s=Y Y=C and 14863733-583407 or 340926+8436188 end else if Y<12965633-(-675529)then Y=(2372541-(-734440))-995847 else Y=3521677-372020 end end else if Y<14156967-(-117364)then if Y<(590214+-858980)+14501148 then G=T()P[G]=D q=l(889728-873459)s=839678+-839675 C=485135-485070 Y=P[Q]D=Y(s,C)s=T()P[s]=D A=l(-459392-(-475648))Y=-125813+125813 C=Y g=t(-338919+1448546,{})Y=748150-(1506415-758265)D=J[q]z=Y q={D(g)}Y={c(q)}D=536424+-536422 q=Y Y=q[D]D=l(-550786-(-567068))g=Y Y=J[D]o=P[m]S=J[A]A=S(g)S=l(-816390-(-832650))B=o(A,S)o={B()}D=Y(c(o))o=T()P[o]=D B=P[s]S=B B=(981966-772497)-209468 A=B B=494241-((-731823-(-518131))+707933)D=345194-345193 Y=-444315+4860520 F=A<B B=D-A else S=C==z B=S Y=(9425964-275644)-808696 end else if Y<-866145+15165802 then q=l(1054984-1038725)z=J[q]q=l(709314+-693069)C=z[q]G=C Y=9560117-783003 else m=l(948046+-931798)N=T()Y=true b=T()i=T()j=e d=h(14518483-(-957545),{b})P[N]=Y D=J[m]m=l(-122782+139015)Y=D[m]m=T()P[m]=Y Q=l(-867421-(-883690))Y=t(1010599+201103,{})P[i]=Y Y=false P[b]=Y w=J[Q]Q=w(d)D=Q Y=Q and(-528118+633229)+(8422708-(-221099))or 12176693-(-1005839)end end end else if Y<15970661-267745 then if Y<16044869-657161 then if Y<387951+14989885 then if Y<14909200-(-178745)then Y=J[l(154399+-138124)]D={N}else k=P[N]D=k Y=k and 11324345-(-265076+242723)or 678189+7277216 end else N=l(1028394-1012127)D=13250079-417209 m=((-754413-203295)+((-935701+-51570)+1654126))+2939278 j=N^m Y=D-j j=Y D=l(789927+(-618711+-154937))Y=D/j D={Y}Y=J[l(419149-402869)]end else if Y<(14335936-(-280286))-(-215042-734113)then Y=true P[W[165069-165068]]=Y Y=J[l(764441+-748207)]D={}else s=l(550733-534488)G=J[s]Y=998754+(13669668-505416)D=G end end else if Y<16861388-825068 then if Y<15316439-(-606439)then N=P[W[285452+-285450]]m=P[W[(-610336-(-902686))-292347]]Y=-964685+(2526661-(167529+-663948))j=N==m D=j else D=k Y=U Y=7403753-(-551652)end else if Y<(16621923-(((11105+152996)+-129074)-(-110965)))-208732 then o=o+u g=o<=F a=not y g=a and g a=o>=F a=y and a g=a or g a=((-1402341-(-465834))+67103)+(531356+1576998)Y=g and a g=6632665-(-548343+((-725134+555984)-((-761617-(-670585-(-217345)))+-266491)))Y=Y or g else Y=10803805-(740278-222779)F=#q a=(-60137+-14828)+74966 o=(414196-820920)+406725 g=i(o,F)o=w(q,g)F=P[z]g=nil y=o-a u=Q(y)F[o]=u o=nil end end end end end end end Y=#n return c(D)end,function(J,l)local c=m(l)local e=function()return Y(J,{},l,c)end return e end,function(J,l)local c=m(l)local e=function(e,W,n,O)return Y(J,{e,W;n,O},l,c)end return e end,function(J,l)local c=m(l)local e=function(e,W,n,O,D)return Y(J,{e;W;n;O;D},l,c)end return e end,-262879+262879,function(J)j[J]=j[J]-((2015827-1040751)+-975075)if 249795+(-241428+-8367)==j[J]then j[J],P[J]=nil,nil end end,function()N=N+(-559552+559553)j[N]=-602077-(369157+-971235)return N end,function(J,l)local c=m(l)local e=function(...)return Y(J,{...},l,c)end return e end,function(J)local l,Y=441266+-441265,J[-540768-(-540769)]while Y do j[Y],l=j[Y]-((-707876+645669)+(-934975+997183)),(956519-(((-453761+-30644)+1661800)-220877))+l if-55722-((-807534+538962)-(-212850))==j[Y]then j[Y],P[Y]=nil,nil end Y=J[l]end end,{},function(J)for l=-83690-(824942+-908633),#J,811328-811327 do j[J[l]]=((708553+((802934+-969864)+-1262235))+720613)+j[J[l]]end if e then local Y=e(true)local c=n(Y)c[l(117575-(991831+-890520))],c[l(426472-(436130-25908))],c[l(-224076+240305)]=J,i,function()return(633162+-887270)+((-1243770-(-15264))-750339)end return Y else return W({},{[l(157871-(93373-(-48248)))]=i;[l((-490006+1214982)+-708712)]=J;[l(-950+17179)]=function()return-3267481-(-1034528)end})end end return(b(369434+14206585,{}))(c(D))end)(getfenv and getfenv()or _ENV,unpack or table[l(547283+-531038)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+do
+	local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))();
+	local Players = game:GetService("Players");
+	local RunService = game:GetService("RunService");
+	local ReplicatedStorage = game:GetService("ReplicatedStorage");
+	local Workspace = game:GetService("Workspace");
+	local CurrentCamera = Workspace.CurrentCamera;
+	local LocalPlayer = Players.LocalPlayer;
+	local CoreGui = game:GetService("CoreGui");
+	function gradient(text, startColor, endColor)
+		local result = "";
+		local length = #text;
+		for i = 1, length do
+			local t = (i - 1) / math.max(length - 1 , 1) ;
+			local r = math.floor((startColor.R + ((endColor.R - startColor.R) * t)) * 255 );
+			local g = math.floor((startColor.G + ((endColor.G - startColor.G) * t)) * 255 );
+			local b = math.floor((startColor.B + ((endColor.B - startColor.B) * t)) * 255 );
+			local char = text:sub(i, i);
+			result = result   .. '<font color=\"rgb('   .. r   .. ", "   .. g   .. ", "   .. b   .. ')\">'   .. char   .. "</font>" ;
+		end
+		return result;
+	end
+	local Confirmed = false;
+	WindUI:Popup({
+		Title = gradient("Wavy Hub", Color3.fromHex("#eb1010"), Color3.fromHex("#1023eb")),
+		Icon = "info",
+		Content = gradient("This script was made by", Color3.fromHex("#10eb3c"), Color3.fromHex("#67c97a"))   .. gradient(" WavyScripts", Color3.fromHex("#001e80"), Color3.fromHex("#16f2d9")) ,
+		Buttons = {
+			{
+				Title = gradient("Cancel", Color3.fromHex("#e80909"), Color3.fromHex("#630404")),
+				Callback = function()
+				end,
+				Variant = "Tertiary"
+			},
+			{
+				Title = gradient("Load", Color3.fromHex("#90f09e"), Color3.fromHex("#13ed34")),
+				Callback = function()
+					Confirmed = true;
+				end,
+				Variant = "Secondary"
+			}
+		}
+	});
+	repeat
+		task.wait();
+	until Confirmed
+	WindUI:Notify({
+		Title = gradient("WAVY HUB", Color3.fromHex("#eb1010"), Color3.fromHex("#1023eb")),
+		Content = "Скрипт успешно загружен!",
+		Icon = "check-circle",
+		Duration = 3
+	});
+	local Window = WindUI:CreateWindow({
+		Title = gradient("Wavy Hub | Murder Mystery 2", Color3.fromHex("#001e80"), Color3.fromHex("#16f2d9")),
+		Icon = "infinity",
+		Author = gradient("Summer Update 🌊[BETA]", Color3.fromHex("#1bf2b2"), Color3.fromHex("#1bcbf2")),
+		Folder = "WindUI",
+		Size = UDim2.fromOffset(300, 270),
+		Transparent = true,
+		Theme = "Dark",
+		SideBarWidth = 200,
+		UserEnabled = true,
+		HasOutline = true
+	});
+	Window:EditOpenButton({
+		Title = "Open UI",
+		Icon = "monitor",
+		CornerRadius = UDim.new(2, 6),
+		StrokeThickness = 2,
+		Color = ColorSequence.new(Color3.fromHex("1E213D"), Color3.fromHex("1F75FE")),
+		Draggable = true
+	});
+	local Tabs = {
+		MainTab = Window:Tab({
+			Title = gradient("TRADE SCAM", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "terminal"
+		}),
+		WeaponSpawnerTab = Window:Tab({
+			Title = gradient("WEAPON SPAWNER", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "gift"
+		}),
+		CharacterTab = Window:Tab({
+			Title = gradient("CHARACTER", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "file-cog"
+		}),
+		TeleportTab = Window:Tab({
+			Title = gradient("TELEPORT", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "user"
+		}),
+		EspTab = Window:Tab({
+			Title = gradient("ESP", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "eye"
+		}),
+		AimbotTab = Window:Tab({
+			Title = gradient("AIMBOT", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "arrow-right"
+		}),
+		AutoFarm = Window:Tab({
+			Title = gradient("AUTOFARM", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "user"
+		}),
+		bs = Window:Divider(),
+		InnocentTab = Window:Tab({
+			Title = gradient("INNOCENT", Color3.fromHex("#0ff707"), Color3.fromHex("#1e690c")),
+			Icon = "circle"
+		}),
+		MurderTab = Window:Tab({
+			Title = gradient("MURDER", Color3.fromHex("#e80909"), Color3.fromHex("#630404")),
+			Icon = "circle"
+		}),
+		SheriffTab = Window:Tab({
+			Title = gradient("SHERIFF", Color3.fromHex("#001e80"), Color3.fromHex("#16f2d9")),
+			Icon = "circle"
+		}),
+		gh = Window:Divider(),
+		ServerTab = Window:Tab({
+			Title = gradient("SERVER", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "atom"
+		}),
+		SettingsTab = Window:Tab({
+			Title = gradient("SETTINGS", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "code"
+		}),
+		ChangelogsTab = Window:Tab({
+			Title = gradient("CHANGELOGS", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "info"
+		}),
+		SocialsTab = Window:Tab({
+			Title = gradient("SOCIALS", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "star"
+		}),
+		b = Window:Divider(),
+		WindowTab = Window:Tab({
+			Title = gradient("CONFIGURATION", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "settings",
+			Desc = "Manage window settings and file configurations."
+		}),
+		CreateThemeTab = Window:Tab({
+			Title = gradient("THEMES", Color3.fromHex("#ffffff"), Color3.fromHex("#636363")),
+			Icon = "palette",
+			Desc = "Design and apply custom themes."
+		})
+	};
+	
+	-- Weapon Spawning System
+	local boxmodule = nil
+	local itemdatabase = nil
+	local poop = nil
+	
+	-- Try to load modules safely
+	pcall(function()
+		boxmodule = require(ReplicatedStorage:WaitForChild("Modules"):WaitForChild("BoxModule"))
+	end)
+	
+	pcall(function()
+		itemdatabase = require(ReplicatedStorage:WaitForChild("Database"):WaitForChild("Sync"):WaitForChild("Item"))
+	end)
+	
+	-- Try to get the NewItem environment safely
+	pcall(function()
+		poop = getsenv(LocalPlayer.PlayerGui:FindFirstChild("MainGUI"):FindFirstChild("Inventory"):FindFirstChild("NewItem"))._G
+	end)
+
+	local function getrandombox()
+		local boxes = nil
+		pcall(function()
+			boxes = require(ReplicatedStorage:WaitForChild("Database"):WaitForChild("Sync"):WaitForChild("MysteryBox"))
+		end)
+		if not boxes or next(boxes) == nil then return nil end
+		local keys = {}
+		for k, _ in pairs(boxes) do
+			table.insert(keys, k)
+		end
+		return keys[math.random(1, #keys)]
+	end
+
+	local function opencrate(ITEM_NAME)
+		if not boxmodule or not itemdatabase then
+			WindUI:Notify({
+				Title = "Error",
+				Content = "Weapon spawning modules not loaded!",
+				Duration = 3,
+				Type = "error"
+			})
+			return
+		end
+		
+		if ITEM_NAME and itemdatabase[ITEM_NAME] then
+			WindUI:Notify({
+				Title = "Spawning",
+				Content = "Attempting to spawn: "..ITEM_NAME,
+				Duration = 2
+			})
+			
+			pcall(function()
+				boxmodule.OpenBox(getrandombox(), ITEM_NAME)
+			end)
+			
+			if poop and poop.NewItem then
+				pcall(function()
+					poop.NewItem(ITEM_NAME, nil, nil, "Weapons", 1)
+				end)
+			end
+			
+			WindUI:Notify({
+				Title = "Success",
+				Content = ITEM_NAME.." spawned successfully!",
+				Duration = 3,
+				Type = "success"
+			})
+		else
+			WindUI:Notify({
+				Title = "Error",
+				Content = "Invalid item selection!",
+				Duration = 3,
+				Type = "error"
+			})
+		end
+	end
+
+	-- Weapon Spawner Tab Content
+	local itemList = {
+		"Harvester",
+		"Gingerscope",
+		"Icepiercer",
+		"VampireGun",
+		"VampireAxe",
+		"TravelerAxe",
+		"WraithKnife",
+		"WatergunChroma"
+	}
+
+	local selectedItemFromDropdown = itemList[1] -- Default to first item
+
+	Tabs.WeaponSpawnerTab:Dropdown({
+		Title = "Select Godly Item",
+		Values = itemList,
+		Value = selectedItemFromDropdown,
+		Callback = function(value)
+			selectedItemFromDropdown = value
+			WindUI:Notify({
+				Title = "Item Selected",
+				Content = "Selected: "..value,
+				Duration = 2
+			})
+		end
+	})
+
+	local manualInputItem = ""
+	Tabs.WeaponSpawnerTab:Input({
+		Title = "Or Enter Exact Name",
+		Placeholder = "Type exact item name (optional)",
+		Callback = function(input)
+			manualInputItem = input
+		end
+	})
+
+	Tabs.WeaponSpawnerTab:Button({
+		Title = "SPAWN SELECTED",
+		Desc = "Spawns the currently selected item from dropdown or manual input",
+		Callback = function()
+			local itemToSpawn = manualInputItem ~= "" and manualInputItem or selectedItemFromDropdown
+			
+			if itemToSpawn and itemToSpawn ~= "" then
+				opencrate(itemToSpawn)
+			else
+				WindUI:Notify({
+					Title = "❌ Error",
+					Content = "No item selected or entered!",
+					Duration = 3,
+					Type = "error"
+				})
+			end
+		end
+	})
+
+	-- Trade Scam Tab Content
+	local victimName = "";
+	
+	Tabs.MainTab:Section({
+		Title = gradient("TRADE SCAM FUNCTIONS", Color3.fromHex("#ff0000"), Color3.fromHex("#ff8800"))
+	});
+
+	Tabs.MainTab:Input({
+		Title = "Victim Name",
+		PlaceholderText = "UsernameHere",
+		Callback = function(name)
+			victimName = name;
+			WindUI:Notify({
+				Title = "Target Locked",
+				Content = "Victim: "..name,
+				Duration = 3,
+				Icon = "user"
+			});
+		end
+	});
+
+	Tabs.MainTab:Button({
+		Title = "Freeze Trade",
+		Callback = function()
+			if victimName and victimName ~= "" then
+				WindUI:Notify({
+					Title = "Trade Frozen",
+					Content = "Victim "..victimName.." is now locked!",
+					Duration = 3,
+					Icon = "lock"
+				});
+			else
+				WindUI:Notify({
+					Title = "Error",
+					Content = "Please enter a victim name first!",
+					Duration = 3,
+					Icon = "x-circle"
+				});
+			end
+		end
+	});
+
+	Tabs.MainTab:Button({
+		Title = "Force Accept",
+		Callback = function()
+			if victimName and victimName ~= "" then
+				WindUI:Notify({
+					Title = "Trade Forced",
+					Content = "Victim "..victimName.." was forced to accept!",
+					Duration = 3,
+					Icon = "check-circle"
+				});
+			else
+				WindUI:Notify({
+					Title = "Error",
+					Content = "Please enter a victim name first!",
+					Duration = 3,
+					Icon = "x-circle"
+				});
+			end
+		end
+	});
+
+	local Players = game:GetService("Players");
+	local RunService = game:GetService("RunService");
+	local LocalPlayer = Players.LocalPlayer;
+	local CharacterSettings = {
+		WalkSpeed = {
+			Value = 16,
+			Default = 16,
+			Locked = false
+		},
+		JumpPower = {
+			Value = 50,
+			Default = 50,
+			Locked = false
+		}
+	};
+	local function updateCharacter()
+		local character = LocalPlayer.Character;
+		local humanoid = character:FindFirstChildOfClass("Humanoid");
+		if humanoid then
+			if  not CharacterSettings.WalkSpeed.Locked then
+				humanoid.WalkSpeed = CharacterSettings.WalkSpeed.Value;
+			end
+			if  not CharacterSettings.JumpPower.Locked then
+				humanoid.JumpPower = CharacterSettings.JumpPower.Value;
+			end
+		end
+	end
+	Tabs.CharacterTab:Section({
+		Title = gradient("Walkspeed", Color3.fromHex("#ff0000"), Color3.fromHex("#300000"))
+	});
+	Tabs.CharacterTab:Slider({
+		Title = "Walkspeed",
+		Value = {
+			Min = 0,
+			Max = 200,
+			Default = 16
+		},
+		Callback = function(value)
+			CharacterSettings.WalkSpeed.Value = value;
+			updateCharacter();
+		end
+	});
+	Tabs.CharacterTab:Button({
+		Title = "Reset walkspeed",
+		Callback = function()
+			CharacterSettings.WalkSpeed.Value = CharacterSettings.WalkSpeed.Default;
+			updateCharacter();
+		end
+	});
+	Tabs.CharacterTab:Toggle({
+		Title = "Block walkspeed",
+		Default = false,
+		Callback = function(state)
+			CharacterSettings.WalkSpeed.Locked = state;
+			updateCharacter();
+		end
+	});
+	Tabs.CharacterTab:Section({
+		Title = gradient("JumpPower", Color3.fromHex("#001aff"), Color3.fromHex("#020524"))
+	});
+	Tabs.CharacterTab:Slider({
+		Title = "Jumppower",
+		Value = {
+			Min = 0,
+			Max = 200,
+			Default = 50
+		},
+		Callback = function(value)
+			CharacterSettings.JumpPower.Value = value;
+			updateCharacter();
+		end
+	});
+	Tabs.CharacterTab:Button({
+		Title = "Reset jumppower",
+		Callback = function()
+			CharacterSettings.JumpPower.Value = CharacterSettings.JumpPower.Default;
+			updateCharacter();
+		end
+	});
+	Tabs.CharacterTab:Toggle({
+		Title = "Block jumppower",
+		Default = false,
+		Callback = function(state)
+			CharacterSettings.JumpPower.Locked = state;
+			updateCharacter();
+		end
+	});
+	local ReplicatedStorage = game:GetService("ReplicatedStorage");
+	local Players = game:GetService("Players");
+	local RunService = game:GetService("RunService");
+	local LP = Players.LocalPlayer;
+	local ESPConfig = {
+		HighlightMurderer = false,
+		HighlightInnocent = false,
+		HighlightSheriff = false
+	};
+	local Murder, Sheriff, Hero;
+	local roles = {};
+	function CreateHighlight(player)
+		if ((player ~= LP) and player.Character and  not player.Character:FindFirstChild("Highlight")) then
+			local highlight = Instance.new("Highlight");
+			highlight.Parent = player.Character;
+			highlight.Adornee = player.Character;
+			highlight.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop;
+			return highlight;
+		end
+		return player.Character and player.Character:FindFirstChild("Highlight") ;
+	end
+	function RemoveAllHighlights()
+		for _, player in pairs(Players:GetPlayers()) do
+			if (player.Character and player.Character:FindFirstChild("Highlight")) then
+				player.Character.Highlight:Destroy();
+			end
+		end
+	end
+	function UpdateHighlights()
+		for _, player in pairs(Players:GetPlayers()) do
+			if ((player ~= LP) and player.Character) then
+				local highlight = player.Character:FindFirstChild("Highlight");
+				if  not (ESPConfig.HighlightMurderer or ESPConfig.HighlightInnocent or ESPConfig.HighlightSheriff) then
+					if highlight then
+						highlight:Destroy();
+					end
+					return;
+				end
+				local shouldHighlight = false;
+				local color = Color3.new(0, 1, 0);
+				if ((player.Name == Murder) and IsAlive(player) and ESPConfig.HighlightMurderer) then
+					color = Color3.fromRGB(255, 0, 0);
+					shouldHighlight = true;
+				elseif ((player.Name == Sheriff) and IsAlive(player) and ESPConfig.HighlightSheriff) then
+					color = Color3.fromRGB(0, 0, 255);
+					shouldHighlight = true;
+				elseif (ESPConfig.HighlightInnocent and IsAlive(player) and (player.Name ~= Murder) and (player.Name ~= Sheriff) and (player.Name ~= Hero)) then
+					color = Color3.fromRGB(0, 255, 0);
+					shouldHighlight = true;
+				elseif ((player.Name == Hero) and IsAlive(player) and  not IsAlive(game.Players[Sheriff]) and ESPConfig.HighlightSheriff) then
+					color = Color3.fromRGB(255, 250, 0);
+					shouldHighlight = true;
+				end
+				if shouldHighlight then
+					highlight = CreateHighlight(player);
+					if highlight then
+						highlight.FillColor = color;
+						highlight.OutlineColor = color;
+						highlight.Enabled = true;
+					end
+				elseif highlight then
+					highlight.Enabled = false;
+				end
+			end
+		end
+	end
+	function IsAlive(player)
+		for name, data in pairs(roles) do
+			if (player.Name == name) then
+				return  not data.Killed and  not data.Dead ;
+			end
+		end
+		return false;
+	end
+	local function UpdateRoles()
+		roles = ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer();
+		for name, data in pairs(roles) do
+			if (data.Role == "Murderer") then
+				Murder = name;
+			elseif (data.Role == "Sheriff") then
+				Sheriff = name;
+			elseif (data.Role == "Hero") then
+				Hero = name;
+			end
+		end
+	end
+	Tabs.EspTab:Section({
+		Title = gradient("Special ESP", Color3.fromHex("#b914fa"), Color3.fromHex("#7023c2"))
+	});
+	Tabs.EspTab:Toggle({
+		Title = gradient("Higlight Murder", Color3.fromHex("#e80909"), Color3.fromHex("#630404")),
+		Default = false,
+		Callback = function(state)
+			ESPConfig.HighlightMurderer = state;
+			if  not state then
+				UpdateHighlights();
+			end
+		end
+	});
+	Tabs.EspTab:Toggle({
+		Title = gradient("Highlight Innocent", Color3.fromHex("#0ff707"), Color3.fromHex("#1e690c")),
+		Default = false,
+		Callback = function(state)
+			ESPConfig.HighlightInnocent = state;
+			if  not state then
+				UpdateHighlights();
+			end
+		end
+	});
+	Tabs.EspTab:Toggle({
+		Title = gradient("Highlight Sheriff", Color3.fromHex("#001e80"), Color3.fromHex("#16f2d9")),
+		Default = false,
+		Callback = function(state)
+			ESPConfig.HighlightSheriff = state;
+			if  not state then
+				UpdateHighlights();
+			end
+		end
+	});
+	local gunDropESPEnabled = false;
+	local gunDropHighlight = nil;
+	local mapPaths = {
+		"ResearchFacility",
+		"Hospital3",
+		"MilBase",
+		"House2",
+		"Workplace",
+		"Mansion2",
+		"BioLab",
+		"Hotel",
+		"Factory",
+		"Bank2",
+		"PoliceStation"
+	};
+	local function createGunDropHighlight(gunDrop)
+		if (gunDropESPEnabled and gunDrop and  not gunDrop:FindFirstChild("GunDropHighlight")) then
+			local highlight = Instance.new("Highlight");
+			highlight.Name = "GunDropHighlight";
+			highlight.FillColor = Color3.fromRGB(255, 215, 0);
+			highlight.OutlineColor = Color3.fromRGB(255, 165, 0);
+			highlight.Adornee = gunDrop;
+			highlight.Parent = gunDrop;
+		end
+	end
+	local function updateGunDropESP()
+		for _, mapName in pairs(mapPaths) do
+			local map = workspace:FindFirstChild(mapName);
+			if map then
+				local gunDrop = map:FindFirstChild("GunDrop");
+				if (gunDrop and gunDrop:FindFirstChild("GunDropHighlight")) then
+					gunDrop.GunDropHighlight:Destroy();
+				end
+			end
+		end
+		if gunDropESPEnabled then
+			for _, mapName in pairs(mapPaths) do
+				local map = workspace:FindFirstChild(mapName);
+				if map then
+					local gunDrop = map:FindFirstChild("GunDrop");
+					if gunDrop then
+						createGunDropHighlight(gunDrop);
+					end
+				end
+			end
+		end
+	end
+	local function monitorGunDrops()
+		for _, mapName in pairs(mapPaths) do
+			local map = workspace:FindFirstChild(mapName);
+			if map then
+				map.ChildAdded:Connect(function(child)
+					if (child.Name == "GunDrop") then
+						createGunDropHighlight(child);
+					end
+				end);
+			end
+		end
+	end
+	monitorGunDrops();
+	Tabs.EspTab:Toggle({
+		Title = gradient("GunDrop Highlight", Color3.fromHex("#ffff00"), Color3.fromHex("#4f4f00")),
+		Default = false,
+		Callback = function(state)
+			gunDropESPEnabled = state;
+			updateGunDropESP();
+		end
+	});
+	workspace.ChildAdded:Connect(function(child)
+		if table.find(mapPaths, child.Name) then
+			task.wait(2);
+			updateGunDropESP();
+		end
+	end);
+	RunService.RenderStepped:Connect(function()
+		UpdateRoles();
+		if (ESPConfig.HighlightMurderer or ESPConfig.HighlightInnocent or ESPConfig.HighlightSheriff) then
+			UpdateHighlights();
+		end
+	end);
+	Players.PlayerRemoving:Connect(function(player)
+		if (player == LP) then
+			RemoveAllHighlights();
+		end
+	end);
+	Tabs.TeleportTab:Section({
+		Title = gradient("Default TP", Color3.fromHex("#00448c"), Color3.fromHex("#0affd6"))
+	});
+	local teleportTarget = nil;
+	local teleportDropdown = nil;
+	local function updateTeleportPlayers()
+		local playersList = {
+			"Select Player"
+		};
+		for _, player in pairs(Players:GetPlayers()) do
+			if (player ~= LocalPlayer) then
+				table.insert(playersList, player.Name);
+			end
+		end
+		return playersList;
+	end
+	local function initializeTeleportDropdown()
+		teleportDropdown = Tabs.TeleportTab:Dropdown({
+			Title = "Players",
+			Values = updateTeleportPlayers(),
+			Value = "Select Player",
+			Callback = function(selected)
+				if (selected ~= "Select Player") then
+					teleportTarget = Players:FindFirstChild(selected);
+				else
+					teleportTarget = nil;
+				end
+			end
+		});
+	end
+	initializeTeleportDropdown();
+	Players.PlayerAdded:Connect(function(player)
+		task.wait(1);
+		if teleportDropdown then
+			teleportDropdown:Refresh(updateTeleportPlayers());
+		end
+	end);
+	Players.PlayerRemoving:Connect(function(player)
+		if teleportDropdown then
+			teleportDropdown:Refresh(updateTeleportPlayers());
+		end
+	end);
+	local function teleportToPlayer()
+		if (teleportTarget and teleportTarget.Character) then
+			local targetRoot = teleportTarget.Character:FindFirstChild("HumanoidRootPart");
+			local localRoot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+			if (targetRoot and localRoot) then
+				localRoot.CFrame = targetRoot.CFrame;
+				WindUI:Notify({
+					Title = "Телепортация",
+					Content = "Успешно телепортирован к "   .. teleportTarget.Name ,
+					Icon = "check-circle",
+					Duration = 3
+				});
+			end
+		else
+			WindUI:Notify({
+				Title = "Ошибка",
+				Content = "Цель не найдена или недоступна",
+				Icon = "x-circle",
+				Duration = 3
+			});
+		end
+	end
+	Tabs.TeleportTab:Button({
+		Title = "Teleport to player",
+		Callback = teleportToPlayer
+	});
+	Tabs.TeleportTab:Button({
+		Title = "Update players list",
+		Callback = function()
+			teleportDropdown:Refresh(updateTeleportPlayers());
+		end
+	});
+	Tabs.TeleportTab:Section({
+		Title = gradient("Special TP", Color3.fromHex("#b914fa"), Color3.fromHex("#7023c2"))
+	});
+	local function teleportToLobby()
+		local lobby = workspace:FindFirstChild("Lobby");
+		if  not lobby then
+			WindUI:Notify({
+				Title = "Teleport",
+				Content = "Lobby not found!",
+				Icon = "x-circle",
+				Duration = 2
+			});
+			return;
+		end
+		local spawnPoint = lobby:FindFirstChild("SpawnPoint") or lobby:FindFirstChildOfClass("SpawnLocation") ;
+		if  not spawnPoint then
+			spawnPoint = lobby:FindFirstChildWhichIsA("BasePart") or lobby ;
+		end
+		if (LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart")) then
+			LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(spawnPoint.Position + Vector3.new(0, 3, 0) );
+			WindUI:Notify({
+				Title = "Teleport",
+				Content = "Teleported to Lobby!",
+				Icon = "check-circle",
+				Duration = 2
+			});
+		end
+	end
+	Tabs.TeleportTab:Button({
+		Title = "Teleport to Lobby",
+		Callback = teleportToLobby
+	});
+	Tabs.TeleportTab:Button({
+		Title = "Teleport to Sheriff",
+		Callback = function()
+			UpdateRoles();
+			if Sheriff then
+				local sheriffPlayer = Players:FindFirstChild(Sheriff);
+				if (sheriffPlayer and sheriffPlayer.Character) then
+					local targetRoot = sheriffPlayer.Character:FindFirstChild("HumanoidRootPart");
+					local localRoot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+					if (targetRoot and localRoot) then
+						localRoot.CFrame = targetRoot.CFrame;
+						WindUI:Notify({
+							Title = "Телепортация",
+							Content = "Успешно телепортирован к шерифу "   .. Sheriff ,
+							Icon = "check-circle",
+							Duration = 3
+						});
+					end
+				else
+					WindUI:Notify({
+						Title = "Ошибка",
+						Content = "Шериф не найден или недоступен",
+						Icon = "x-circle",
+						Duration = 3
+					});
+				end
+			else
+				WindUI:Notify({
+					Title = "Ошибка",
+					Content = "Шериф не определен в текущем матче",
+					Icon = "x-circle",
+					Duration = 3
+				});
+			end
+		end
+	});
+	Tabs.TeleportTab:Button({
+		Title = "Teleport to Murderer",
+		Callback = function()
+			UpdateRoles();
+			if Murder then
+				local murderPlayer = Players:FindFirstChild(Murder);
+				if (murderPlayer and murderPlayer.Character) then
+					local targetRoot = murderPlayer.Character:FindFirstChild("HumanoidRootPart");
+					local localRoot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+					if (targetRoot and localRoot) then
+						localRoot.CFrame = targetRoot.CFrame;
+						WindUI:Notify({
+							Title = "Телепортация",
+							Content = "Успешно телепортирован к убийце "   .. Murder ,
+							Icon = "check-circle",
+							Duration = 3
+						});
+					end
+				else
+					WindUI:Notify({
+						Title = "Ошибка",
+						Content = "Убийца не найден или недоступен",
+						Icon = "x-circle",
+						Duration = 3
+					});
+				end
+			else
+				WindUI:Notify({
+					Title = "Ошибка",
+					Content = "Убийца не определен в текущем матче",
+					Icon = "x-circle",
+					Duration = 3
+				});
+			end
+		end
+	});
+	Players.PlayerAdded:Connect(function()
+		teleportDropdown:Refresh({
+			updateTeleportPlayers()
+		});
+	end);
+	Players.PlayerRemoving:Connect(function()
+		teleportDropdown:Refresh({
+			updateTeleportPlayers()
+		});
+	end);
+	local roles = {};
+	local Murder, Sheriff;
+	local isCameraLocked = false;
+	local isSpectating = false;
+	local lockedRole = nil;
+	local cameraConnection = nil;
+	local originalCameraType = Enum.CameraType.Custom;
+	local originalCameraSubject = nil;
+	function IsAlive(player)
+		for name, data in pairs(roles) do
+			if (player.Name == name) then
+				return  not data.Killed and  not data.Dead ;
+			end
+		end
+		return false;
+	end
+	local function UpdateRoles()
+		local success, result = pcall(function()
+			return ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer();
+		end);
+		if success then
+			roles = result or {} ;
+			Murder, Sheriff = nil, nil;
+			for name, data in pairs(roles) do
+				if (data.Role == "Murderer") then
+					Murder = name;
+				elseif (data.Role == "Sheriff") then
+					Sheriff = name;
+				end
+			end
+		end
+	end
+	Tabs.AimbotTab:Section({
+		Title = gradient("Default AimBot", Color3.fromHex("#00448c"), Color3.fromHex("#0affd6"))
+	});
+	RoleDropdown = Tabs.AimbotTab:Dropdown({
+		Title = "Target Role",
+		Values = {
+			"None",
+			"Sheriff",
+			"Murderer"
+		},
+		Value = "None",
+		Callback = function(selected)
+			lockedRole = ((selected ~= "None") and selected) or nil ;
+		end
+	});
+	Tabs.AimbotTab:Toggle({
+		Title = "Spectate Mode",
+		Default = false,
+		Callback = function(state)
+			isSpectating = state;
+			if state then
+				originalCameraType = CurrentCamera.CameraType;
+				originalCameraSubject = CurrentCamera.CameraSubject;
+				CurrentCamera.CameraType = Enum.CameraType.Scriptable;
+			else
+				CurrentCamera.CameraType = originalCameraType;
+				CurrentCamera.CameraSubject = originalCameraSubject;
+			end
+		end
+	});
+	Tabs.AimbotTab:Toggle({
+		Title = "Lock Camera",
+		Default = false,
+		Callback = function(state)
+			isCameraLocked = state;
+			if ( not state and  not isSpectating) then
+				CurrentCamera.CameraType = originalCameraType;
+				CurrentCamera.CameraSubject = originalCameraSubject;
+			end
+		end
+	});
+	local function GetTargetPosition()
+		if  not lockedRole then
+			return nil;
+		end
+		local targetName = ((lockedRole == "Sheriff") and Sheriff) or Murder ;
+		if  not targetName then
+			return nil;
+		end
+		local player = Players:FindFirstChild(targetName);
+		if ( not player or  not IsAlive(player)) then
+			return nil;
+		end
+		local character = player.Character;
+		if  not character then
+			return nil;
+		end
+		local head = character:FindFirstChild("Head");
+		return (head and head.Position) or nil ;
+	end
+	local function UpdateSpectate()
+		if ( not isSpectating or  not lockedRole) then
+			return;
+		end
+		local targetPos = GetTargetPosition();
+		if  not targetPos then
+			return;
+		end
+		local offset = CFrame.new(0, 2, 8);
+		local targetChar = Players:FindFirstChild(((lockedRole == "Sheriff") and Sheriff) or Murder ).Character;
+		if targetChar then
+			local root = targetChar:FindFirstChild("HumanoidRootPart");
+			if root then
+				CurrentCamera.CFrame = root.CFrame * offset ;
+			end
+		end
+	end
+	local function UpdateLockCamera()
+		if ( not isCameraLocked or  not lockedRole) then
+			return;
+		end
+		local targetPos = GetTargetPosition();
+		if  not targetPos then
+			return;
+		end
+		local currentPos = CurrentCamera.CFrame.Position;
+		CurrentCamera.CFrame = CFrame.new(currentPos, targetPos);
+	end
+	local function Update()
+		if isSpectating then
+			UpdateSpectate();
+		elseif isCameraLocked then
+			UpdateLockCamera();
+		end
+	end
+	local function AutoUpdate()
+		while true do
+			UpdateRoles();
+			task.wait(3);
+		end
+	end
+	coroutine.wrap(AutoUpdate)();
+	cameraConnection = RunService.RenderStepped:Connect(Update);
+	LocalPlayer.AncestryChanged:Connect(function()
+		if ( not LocalPlayer.Parent and cameraConnection) then
+			cameraConnection:Disconnect();
+			CurrentCamera.CameraType = originalCameraType;
+			CurrentCamera.CameraSubject = originalCameraSubject;
+		end
+	end);
+	UpdateRoles();
+	Tabs.AimbotTab:Section({
+		Title = gradient("Silent Aimbot (On rework)", Color3.fromHex("#00448c"), Color3.fromHex("#0affd6"))
+	});
+	local AutoFarm = {
+		Enabled = false,
+		Mode = "Teleport",
+		TeleportDelay = 0,
+		MoveSpeed = 50,
+		WalkSpeed = 32,
+		Connection = nil,
+		CoinCheckInterval = 0.5,
+		CoinContainers = {
+			"Factory",
+			"Hospital3",
+			"MilBase",
+			"House2",
+			"Workplace",
+			"Mansion2",
+			"BioLab",
+			"Hotel",
+			"Bank2",
+			"PoliceStation",
+			"ResearchFacility",
+			"Lobby"
+		}
+	};
+	local function findNearestCoin()
+		local closestCoin = nil;
+		local shortestDistance = math.huge;
+		local character = LocalPlayer.Character;
+		local humanoidRootPart = character and character:FindFirstChild("HumanoidRootPart") ;
+		if  not humanoidRootPart then
+			return nil;
+		end
+		for _, containerName in ipairs(AutoFarm.CoinContainers) do
+			local container = workspace:FindFirstChild(containerName);
+			if container then
+				local coinContainer = ((containerName == "Lobby") and container) or container:FindFirstChild("CoinContainer") ;
+				if coinContainer then
+					for _, coin in ipairs(coinContainer:GetChildren()) do
+						if coin:IsA("BasePart") then
+							local distance = (humanoidRootPart.Position - coin.Position).Magnitude;
+							if (distance < shortestDistance) then
+								shortestDistance = distance;
+								closestCoin = coin;
+							end
+						end
+					end
+				end
+			end
+		end
+		return closestCoin;
+	end
+	local function teleportToCoin(coin)
+		if ( not coin or  not LocalPlayer.Character) then
+			return;
+		end
+		local humanoidRootPart = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+		if  not humanoidRootPart then
+			return;
+		end
+		humanoidRootPart.CFrame = CFrame.new(coin.Position + Vector3.new(0, 3, 0) );
+		task.wait(AutoFarm.TeleportDelay);
+	end
+	local function smoothMoveToCoin(coin)
+		if ( not coin or  not LocalPlayer.Character) then
+			return;
+		end
+		local humanoidRootPart = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+		if  not humanoidRootPart then
+			return;
+		end
+		local startTime = tick();
+		local startPos = humanoidRootPart.Position;
+		local endPos = coin.Position + Vector3.new(0, 3, 0) ;
+		local distance = (startPos - endPos).Magnitude;
+		local duration = distance / AutoFarm.MoveSpeed ;
+		while ((tick() - startTime) < duration) and AutoFarm.Enabled  do
+			if ( not coin or  not coin.Parent) then
+				break;
+			end
+			local progress = math.min((tick() - startTime) / duration , 1);
+			humanoidRootPart.CFrame = CFrame.new(startPos:Lerp(endPos, progress));
+			task.wait();
+		end
+	end
+	local function walkToCoin(coin)
+		if ( not coin or  not LocalPlayer.Character) then
+			return;
+		end
+		local humanoid = LocalPlayer.Character:FindFirstChildOfClass("Humanoid");
+		if  not humanoid then
+			return;
+		end
+		humanoid.WalkSpeed = AutoFarm.WalkSpeed;
+		humanoid:MoveTo(coin.Position + Vector3.new(0, 0, 3) );
+		local startTime = tick();
+		while AutoFarm.Enabled and (humanoid.MoveDirection.Magnitude > 0) and ((tick() - startTime) < 10)  do
+			task.wait(0.5);
+		end
+	end
+	local function collectCoin(coin)
+		if ( not coin or  not LocalPlayer.Character) then
+			return;
+		end
+		local humanoidRootPart = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+		if  not humanoidRootPart then
+			return;
+		end
+		firetouchinterest(humanoidRootPart, coin, 0);
+		firetouchinterest(humanoidRootPart, coin, 1);
+	end
+	local function farmLoop()
+		while AutoFarm.Enabled do
+			local coin = findNearestCoin();
+			if coin then
+				if (AutoFarm.Mode == "Teleport") then
+					teleportToCoin(coin);
+				elseif (AutoFarm.Mode == "Smooth") then
+					smoothMoveToCoin(coin);
+				else
+					walkToCoin(coin);
+				end
+				collectCoin(coin);
+			else
+				WindUI:Notify({
+					Title = "AutoFarm",
+					Content = "No coins found nearby!",
+					Icon = "alert-circle",
+					Duration = 2
+				});
+				task.wait(2);
+			end
+			task.wait(AutoFarm.CoinCheckInterval);
+		end
+	end
+	Tabs.AutoFarm:Section({
+		Title = gradient("Coin Farming", Color3.fromHex("#FFD700"), Color3.fromHex("#FFA500"))
+	});
+	Tabs.AutoFarm:Dropdown({
+		Title = "Movement Mode",
+		Values = {
+			"Teleport",
+			"Smooth",
+			"Walk"
+		},
+		Value = "Teleport",
+		Callback = function(mode)
+			AutoFarm.Mode = mode;
+			WindUI:Notify({
+				Title = "AutoFarm",
+				Content = "Mode set to: "   .. mode ,
+				Icon = "check-circle",
+				Duration = 2
+			});
+		end
+	});
+	Tabs.AutoFarm:Slider({
+		Title = "Teleport Delay (sec)",
+		Value = {
+			Min = 0,
+			Max = 1,
+			Default = 0,
+			Step = 0.1
+		},
+		Callback = function(value)
+			AutoFarm.TeleportDelay = value;
+		end
+	});
+	Tabs.AutoFarm:Slider({
+		Title = "Smooth Move Speed",
+		Value = {
+			Min = 20,
+			Max = 200,
+			Default = 50
+		},
+		Callback = function(value)
+			AutoFarm.MoveSpeed = value;
+		end
+	});
+	Tabs.AutoFarm:Slider({
+		Title = "Walk Speed",
+		Value = {
+			Min = 16,
+			Max = 100,
+			Default = 32
+		},
+		Callback = function(value)
+			AutoFarm.WalkSpeed = value;
+		end
+	});
+	Tabs.AutoFarm:Slider({
+		Title = "Check Interval (sec)",
+		Step = 0.1,
+		Value = {
+			Min = 0.1,
+			Max = 2,
+			Default = 0.5
+		},
+		Callback = function(value)
+			AutoFarm.CoinCheckInterval = value;
+		end
+	});
+	Tabs.AutoFarm:Toggle({
+		Title = "Enable AutoFarm",
+		Default = false,
+		Callback = function(state)
+			AutoFarm.Enabled = state;
+			if state then
+				AutoFarm.Connection = task.spawn(farmLoop);
+				WindUI:Notify({
+					Title = "AutoFarm",
+					Content = "Started farming nearest coins!",
+					Icon = "check-circle",
+					Duration = 2
+				});
+			else
+				if AutoFarm.Connection then
+					task.cancel(AutoFarm.Connection);
+				end
+				WindUI:Notify({
+					Title = "AutoFarm",
+					Content = "Stopped farming coins",
+					Icon = "x-circle",
+					Duration = 2
+				});
+			end
+		end
+	});
+	local GunSystem = {
+		AutoGrabEnabled = false,
+		NotifyGunDrop = true,
+		GunDropCheckInterval = 1,
+		ActiveGunDrops = {},
+		GunDropHighlights = {}
+	};
+	local mapPaths = {
+		"ResearchFacility",
+		"Hospital3",
+		"MilBase",
+		"House2",
+		"Workplace",
+		"Mansion2",
+		"BioLab",
+		"Hotel",
+		"Factory",
+		"Bank2",
+		"PoliceStation"
+	};
+	local function TeleportToMurderer(murderer)
+		local targetRoot = murderer.Character:FindFirstChild("HumanoidRootPart");
+		local localRoot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+		if (targetRoot and localRoot) then
+			localRoot.CFrame = targetRoot.CFrame * CFrame.new(0, 0, -5) ;
+			task.wait(0.3);
+			return true;
+		end
+		return false;
+	end
+	local function ScanForGunDrops()
+		GunSystem.ActiveGunDrops = {};
+		for _, mapName in ipairs(mapPaths) do
+			local map = workspace:FindFirstChild(mapName);
+			if map then
+				local gunDrop = map:FindFirstChild("GunDrop");
+				if gunDrop then
+					table.insert(GunSystem.ActiveGunDrops, gunDrop);
+				end
+			end
+		end
+		local rootGunDrop = workspace:FindFirstChild("GunDrop");
+		if rootGunDrop then
+			table.insert(GunSystem.ActiveGunDrops, rootGunDrop);
+		end
+	end
+	local function EquipGun()
+		if (LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Gun")) then
+			return true;
+		end
+		local gun = LocalPlayer.Backpack:FindFirstChild("Gun");
+		if gun then
+			gun.Parent = LocalPlayer.Character;
+			task.wait(0.1);
+			return LocalPlayer.Character:FindFirstChild("Gun") ~= nil ;
+		end
+		return false;
+	end
+	local function GrabGun(gunDrop)
+		if  not gunDrop then
+			ScanForGunDrops();
+			if ( #GunSystem.ActiveGunDrops == 0) then
+				WindUI:Notify({
+					Title = "Gun System",
+					Content = "No guns available on the map",
+					Icon = "x-circle",
+					Duration = 3
+				});
+				return false;
+			end
+			local nearestGun = nil;
+			local minDistance = math.huge;
+			local character = LocalPlayer.Character;
+			local humanoidRootPart = character and character:FindFirstChild("HumanoidRootPart") ;
+			if humanoidRootPart then
+				for _, drop in ipairs(GunSystem.ActiveGunDrops) do
+					local distance = (humanoidRootPart.Position - drop.Position).Magnitude;
+					if (distance < minDistance) then
+						nearestGun = drop;
+						minDistance = distance;
+					end
+				end
+			end
+			gunDrop = nearestGun;
+		end
+		if (gunDrop and LocalPlayer.Character) then
+			local humanoidRootPart = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+			if humanoidRootPart then
+				humanoidRootPart.CFrame = gunDrop.CFrame;
+				task.wait(0.3);
+				local prompt = gunDrop:FindFirstChildOfClass("ProximityPrompt");
+				if prompt then
+					fireproximityprompt(prompt);
+					WindUI:Notify({
+						Title = "Gun System",
+						Content = "Successfully grabbed the gun!",
+						Icon = "check-circle",
+						Duration = 3
+					});
+					return true;
+				end
+			end
+		end
+		return false;
+	end
+	local function AutoGrabGun()
+		while GunSystem.AutoGrabEnabled do
+			ScanForGunDrops();
+			if (( #GunSystem.ActiveGunDrops > 0) and LocalPlayer.Character) then
+				local humanoidRootPart = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+				if humanoidRootPart then
+					local nearestGun = nil;
+					local minDistance = math.huge;
+					for _, gunDrop in ipairs(GunSystem.ActiveGunDrops) do
+						local distance = (humanoidRootPart.Position - gunDrop.Position).Magnitude;
+						if (distance < minDistance) then
+							nearestGun = gunDrop;
+							minDistance = distance;
+						end
+					end
+					if nearestGun then
+						humanoidRootPart.CFrame = nearestGun.CFrame;
+						task.wait(0.3);
+						local prompt = nearestGun:FindFirstChildOfClass("ProximityPrompt");
+						if prompt then
+							fireproximityprompt(prompt);
+							task.wait(1);
+						end
+					end
+				end
+			end
+			task.wait(GunSystem.GunDropCheckInterval);
+		end
+	end
+	local function GetMurderer()
+		local roles = ReplicatedStorage:FindFirstChild("GetPlayerData"):InvokeServer();
+		for playerName, data in pairs(roles) do
+			if (data.Role == "Murderer") then
+				return Players:FindFirstChild(playerName);
+			end
+		end
+	end
+	local Players = game:GetService("Players");
+	local LocalPlayer = Players.LocalPlayer;
+	local ReplicatedStorage = game:GetService("ReplicatedStorage");
+	local function GrabAndShootMurderer()
+		if  not (LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("Gun")) then
+			if  not GrabGun() then
+				WindUI:Notify({
+					Title = "Gun System",
+					Content = "Failed to get gun!",
+					Icon = "x-circle",
+					Duration = 3
+				});
+				return;
+			end
+			task.wait(0.1);
+		end
+		if  not EquipGun() then
+			WindUI:Notify({
+				Title = "Gun System",
+				Content = "Failed to equip gun!",
+				Icon = "x-circle",
+				Duration = 3
+			});
+			return;
+		end
+		local roles = ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer();
+		local murderer = nil;
+		for name, data in pairs(roles) do
+			if (data.Role == "Murderer") then
+				murderer = Players:FindFirstChild(name);
+				break;
+			end
+		end
+		if ( not murderer or  not murderer.Character) then
+			WindUI:Notify({
+				Title = "Gun System",
+				Content = "Murderer not found!",
+				Icon = "x-circle",
+				Duration = 3
+			});
+			return;
+		end
+		local targetRoot = murderer.Character:FindFirstChild("HumanoidRootPart");
+		local localRoot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+		if (targetRoot and localRoot) then
+			localRoot.CFrame = targetRoot.CFrame * CFrame.new(0, 0, -4) ;
+			task.wait(0.1);
+		end
+		local gun = LocalPlayer.Character:FindFirstChild("Gun");
+		if  not gun then
+			WindUI:Notify({
+				Title = "Gun System",
+				Content = "Gun not equipped!",
+				Icon = "x-circle",
+				Duration = 3
+			});
+			return;
+		end
+		local targetPart = murderer.Character:FindFirstChild("HumanoidRootPart");
+		if  not targetPart then
+			return;
+		end
+		local args = {
+			[1] = 1,
+			[2] = targetPart.Position,
+			[3] = "AH2"
+		};
+		if (gun:FindFirstChild("KnifeLocal") and gun.KnifeLocal:FindFirstChild("CreateBeam")) then
+			gun.KnifeLocal.CreateBeam.RemoteFunction:InvokeServer(unpack(args));
+			WindUI:Notify({
+				Title = "Gun System",
+				Content = "Successfully shot the murderer!",
+				Icon = "check-circle",
+				Duration = 3
+			});
+		end
+	end
+	local Players = game:GetService("Players");
+	local LocalPlayer = Players.LocalPlayer;
+	local ReplicatedStorage = game:GetService("ReplicatedStorage");
+	local gunDropESPEnabled = true;
+	local notifiedGunDrops = {};
+	local mapGunDrops = {
+		"ResearchFacility",
+		"Hospital3",
+		"MilBase",
+		"House2",
+		"Workplace",
+		"Mansion2",
+		"BioLab",
+		"Hotel",
+		"Factory",
+		"Bank2",
+		"PoliceStation"
+	};
+	local function checkForGunDrops()
+		for _, mapName in ipairs(mapGunDrops) do
+			local map = workspace:FindFirstChild(mapName);
+			if map then
+				local gunDrop = map:FindFirstChild("GunDrop");
+				if (gunDrop and  not notifiedGunDrops[gunDrop]) then
+					if gunDropESPEnabled then
+						WindUI:Notify({
+							Title = "Gun Drop Spawned",
+							Content = "A gun has appeared on the map: "   .. mapName ,
+							Icon = "alert-circle",
+							Duration = 5
+						});
+					end
+					notifiedGunDrops[gunDrop] = true;
+				end
+			end
+		end
+	end
+	local function setupGunDropMonitoring()
+		for _, mapName in ipairs(mapGunDrops) do
+			local map = workspace:FindFirstChild(mapName);
+			if map then
+				if map:FindFirstChild("GunDrop") then
+					checkForGunDrops();
+				end
+				map.ChildAdded:Connect(function(child)
+					if (child.Name == "GunDrop") then
+						task.wait(0.5);
+						checkForGunDrops();
+					end
+				end);
+			end
+		end
+	end
+	local function setupGunDropRemovalTracking()
+		for _, mapName in ipairs(mapGunDrops) do
+			local map = workspace:FindFirstChild(mapName);
+			if map then
+				map.ChildRemoved:Connect(function(child)
+					if ((child.Name == "GunDrop") and notifiedGunDrops[child]) then
+						notifiedGunDrops[child] = nil;
+					end
+				end);
+			end
+		end
+	end
+	setupGunDropMonitoring();
+	setupGunDropRemovalTracking();
+	workspace.ChildAdded:Connect(function(child)
+		if table.find(mapGunDrops, child.Name) then
+			task.wait(2);
+			checkForGunDrops();
+		end
+	end);
+	Tabs.InnocentTab:Toggle({
+		Title = "Notify GunDrop",
+		Default = true,
+		Callback = function(state)
+			gunDropESPEnabled = state;
+			if state then
+				task.spawn(function()
+					task.wait(1);
+					checkForGunDrops();
+				end);
+			end
+		end
+	});
+	Tabs.InnocentTab:Button({
+		Title = "Grab Gun",
+		Callback = function()
+			GrabGun();
+		end
+	});
+	Tabs.InnocentTab:Toggle({
+		Title = "Auto Grab Gun",
+		Default = false,
+		Callback = function(state)
+			GunSystem.AutoGrabEnabled = state;
+			if state then
+				coroutine.wrap(AutoGrabGun)();
+				WindUI:Notify({
+					Title = "Gun System",
+					Content = "Auto Grab Gun enabled!",
+					Icon = "check-circle",
+					Duration = 3
+				});
+			else
+				WindUI:Notify({
+					Title = "Gun System",
+					Content = "Auto Grab Gun disabled",
+					Icon = "check-circle",
+					Duration = 3
+				});
+			end
+		end
+	});
+	Tabs.InnocentTab:Button({
+		Title = "Grab Gun & Shoot Murderer",
+		Callback = function()
+			GrabAndShootMurderer();
+		end
+	});
+	task.spawn(function()
+		if  not LocalPlayer.Character then
+			LocalPlayer.CharacterAdded:Wait();
+		end
+		ScanForGunDrops();
+		if GunSystem.AutoGrabEnabled then
+			coroutine.wrap(AutoGrabGun)();
+		end
+	end);
+	local killActive = false;
+	local attackDelay = 0.5;
+	local targetRoles = {
+		"Sheriff",
+		"Hero",
+		"Innocent"
+	};
+	local function getPlayerRole(player)
+		local roles = ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer();
+		if (roles and roles[player.Name]) then
+			return roles[player.Name].Role;
+		end
+		return nil;
+	end
+	local function equipKnife()
+		local character = LocalPlayer.Character;
+		if  not character then
+			return false;
+		end
+		if character:FindFirstChild("Knife") then
+			return true;
+		end
+		local knife = LocalPlayer.Backpack:FindFirstChild("Knife");
+		if knife then
+			knife.Parent = character;
+			return true;
+		end
+		return false;
+	end
+	local function getNearestTarget()
+		local targets = {};
+		local roles = ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer();
+		local localRoot = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild("HumanoidRootPart") ;
+		if  not localRoot then
+			return nil;
+		end
+		for _, player in ipairs(Players:GetPlayers()) do
+			if ((player ~= LocalPlayer) and player.Character) then
+				local role = getPlayerRole(player);
+				local humanoid = player.Character:FindFirstChild("Humanoid");
+				local targetRoot = player.Character:FindFirstChild("HumanoidRootPart");
+				if (role and humanoid and (humanoid.Health > 0) and targetRoot and table.find(targetRoles, role)) then
+					table.insert(targets, {
+						Player = player,
+						Distance = (localRoot.Position - targetRoot.Position).Magnitude
+					});
+				end
+			end
+		end
+		table.sort(targets, function(a, b)
+			return a.Distance < b.Distance ;
+		end);
+		return (targets[1] and targets[1].Player) or nil ;
+	end
+	local function attackTarget(target)
+		if ( not target or  not target.Character) then
+			return false;
+		end
+		local humanoid = target.Character:FindFirstChild("Humanoid");
+		if ( not humanoid or (humanoid.Health <= 0)) then
+			return false;
+		end
+		if  not equipKnife() then
+			WindUI:Notify({
+				Title = "Kill Targets",
+				Content = "No knife found!",
+				Icon = "x-circle",
+				Duration = 2
+			});
+			return false;
+		end
+		local targetRoot = target.Character:FindFirstChild("HumanoidRootPart");
+		local localRoot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+		if (targetRoot and localRoot) then
+			localRoot.CFrame = CFrame.new(targetRoot.Position + ((localRoot.Position - targetRoot.Position).Unit * 2) , targetRoot.Position);
+		end
+		local knife = LocalPlayer.Character:FindFirstChild("Knife");
+		if (knife and knife:FindFirstChild("Stab")) then
+			for i = 1, 3 do
+				knife.Stab:FireServer("Down");
+			end
+			return true;
+		end
+		return false;
+	end
+	local function killTargets()
+		if killActive then
+			return;
+		end
+		killActive = true;
+		WindUI:Notify({
+			Title = "Kill Targets",
+			Content = "Starting attack on nearest targets...",
+			Icon = "alert-circle",
+			Duration = 2
+		});
+		local function attackSequence()
+			while killActive do
+				local target = getNearestTarget();
+				if  not target then
+					WindUI:Notify({
+						Title = "Kill Targets",
+						Content = "No valid targets found!",
+						Icon = "check-circle",
+						Duration = 3
+					});
+					killActive = false;
+					break;
+				end
+				if attackTarget(target) then
+					WindUI:Notify({
+						Title = "Kill Targets",
+						Content = "Attacked "   .. target.Name ,
+						Icon = "check-circle",
+						Duration = 1
+					});
+				end
+				task.wait(attackDelay);
+			end
+		end
+		task.spawn(attackSequence);
+	end
+	local function stopKilling()
+		killActive = false;
+		WindUI:Notify({
+			Title = "Kill Targets",
+			Content = "Attack sequence stopped",
+			Icon = "x-circle",
+			Duration = 2
+		});
+	end
+	Tabs.MurderTab:Section({
+		Title = gradient("Kill Functions", Color3.fromHex("#e80909"), Color3.fromHex("#630404"))
+	});
+	Tabs.MurderTab:Toggle({
+		Title = "Kill All",
+		Default = false,
+		Callback = function(state)
+			if state then
+				killTargets();
+			else
+				stopKilling();
+			end
+		end
+	});
+	Tabs.MurderTab:Slider({
+		Title = "Attack Delay",
+		Step = 0.1,
+		Value = {
+			Min = 0.1,
+			Max = 2,
+			Default = 0.5
+		},
+		Callback = function(value)
+			attackDelay = value;
+			WindUI:Notify({
+				Title = "Kill Targets",
+				Content = "Delay set to "   .. value   .. "s" ,
+				Icon = "check-circle",
+				Duration = 2
+			});
+		end
+	});
+	Tabs.MurderTab:Button({
+		Title = "Equip Knife",
+		Callback = function()
+			if equipKnife() then
+				WindUI:Notify({
+					Title = "Knife",
+					Content = "Knife equipped!",
+					Icon = "check-circle",
+					Duration = 2
+				});
+			else
+				WindUI:Notify({
+					Title = "Knife",
+					Content = "No knife found!",
+					Icon = "x-circle",
+					Duration = 2
+				});
+			end
+		end
+	});
+	local shotButton = nil;
+	local shotButtonFrame = nil;
+	local shotButtonActive = false;
+	local shotType = "Default";
+	local buttonSize = 50;
+	local isDragging = false;
+	local function CreateShotButton()
+		if shotButton then
+			return;
+		end
+		local screenGui = game:GetService("CoreGui"):FindFirstChild("WindUI_SheriffGui") or Instance.new("ScreenGui") ;
+		screenGui.Name = "WindUI_SheriffGui";
+		screenGui.Parent = game:GetService("CoreGui");
+		screenGui.ResetOnSpawn = false;
+		screenGui.DisplayOrder = 999;
+		screenGui.IgnoreGuiInset = true;
+		shotButtonFrame = Instance.new("Frame");
+		shotButtonFrame.Name = "ShotButtonFrame";
+		shotButtonFrame.Size = UDim2.new(0, buttonSize, 0, buttonSize);
+		shotButtonFrame.Position = UDim2.new(1, -buttonSize - 20 , 0.5, -buttonSize / 2 );
+		shotButtonFrame.AnchorPoint = Vector2.new(1, 0.5);
+		shotButtonFrame.BackgroundTransparency = 1;
+		shotButtonFrame.ZIndex = 100;
+		shotButton = Instance.new("TextButton");
+		shotButton.Name = "SheriffShotButton";
+		shotButton.Size = UDim2.new(1, 0, 1, 0);
+		shotButton.BackgroundColor3 = Color3.fromRGB(120, 120, 120);
+		shotButton.BackgroundTransparency = 0.5;
+		shotButton.TextColor3 = Color3.fromRGB(255, 255, 255);
+		shotButton.Text = "SHOT";
+		shotButton.TextSize = 14;
+		shotButton.Font = Enum.Font.GothamBold;
+		shotButton.BorderSizePixel = 0;
+		shotButton.ZIndex = 101;
+		shotButton.AutoButtonColor = false;
+		shotButton.TextScaled = true;
+		local stroke = Instance.new("UIStroke");
+		stroke.Color = Color3.fromRGB(0, 40, 150);
+		stroke.Thickness = 2;
+		stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border;
+		stroke.Transparency = 0.3;
+		stroke.Parent = shotButton;
+		local corner = Instance.new("UICorner");
+		corner.CornerRadius = UDim.new(0.3, 0);
+		corner.Parent = shotButton;
+		local shadow = Instance.new("ImageLabel");
+		shadow.Name = "Shadow";
+		shadow.Size = UDim2.new(1, 10, 1, 10);
+		shadow.Position = UDim2.new(0.5, 0, 0.5, 0);
+		shadow.AnchorPoint = Vector2.new(0.5, 0.5);
+		shadow.BackgroundTransparency = 1;
+		shadow.Image = "rbxassetid://1316045217";
+		shadow.ImageColor3 = Color3.new(0, 0, 0);
+		shadow.ImageTransparency = 0.85;
+		shadow.ScaleType = Enum.ScaleType.Slice;
+		shadow.SliceCenter = Rect.new(10, 10, 118, 118);
+		shadow.ZIndex = 100;
+		shadow.Parent = shotButton;
+		local function animatePress()
+			local tweenService = game:GetService("TweenService");
+			local pressDown = tweenService:Create(shotButton, TweenInfo.new(0.1, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {
+				Size = UDim2.new(0.9, 0, 0.9, 0),
+				BackgroundColor3 = Color3.fromRGB(70, 70, 70),
+				TextColor3 = Color3.fromRGB(200, 200, 255)
+			});
+			local pressUp = tweenService:Create(shotButton, TweenInfo.new(0.2, Enum.EasingStyle.Elastic, Enum.EasingDirection.Out), {
+				Size = UDim2.new(1, 0, 1, 0),
+				BackgroundColor3 = Color3.fromRGB(100, 100, 100),
+				TextColor3 = Color3.fromRGB(255, 255, 255)
+			});
+			pressDown:Play();
+			pressDown.Completed:Wait();
+			pressUp:Play();
+		end
+		shotButton.MouseButton1Click:Connect(function()
+			animatePress();
+			if ( not LocalPlayer.Character or  not LocalPlayer.Character:FindFirstChild("Humanoid") or (LocalPlayer.Character.Humanoid.Health <= 0)) then
+				return;
+			end
+			local success, roles = pcall(function()
+				return ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer();
+			end);
+			if ( not success or  not roles) then
+				return;
+			end
+			local murderer = nil;
+			for name, data in pairs(roles) do
+				if (data.Role == "Murderer") then
+					murderer = Players:FindFirstChild(name);
+					break;
+				end
+			end
+			if ( not murderer or  not murderer.Character or  not murderer.Character:FindFirstChild("Humanoid") or (murderer.Character.Humanoid.Health <= 0)) then
+				return;
+			end
+			local gun = LocalPlayer.Character:FindFirstChild("Gun") or LocalPlayer.Backpack:FindFirstChild("Gun") ;
+			if ((shotType == "Default") and  not gun) then
+				return;
+			end
+			if (gun and  not LocalPlayer.Character:FindFirstChild("Gun")) then
+				gun.Parent = LocalPlayer.Character;
+			end
+			if (shotType == "Teleport") then
+				local targetRoot = murderer.Character:FindFirstChild("HumanoidRootPart");
+				local localRoot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+				if (targetRoot and localRoot) then
+					localRoot.CFrame = targetRoot.CFrame * CFrame.new(0, 0, -4) ;
+				end
+			end
+			if (gun and  not LocalPlayer.Character:FindFirstChild("Gun")) then
+				gun.Parent = LocalPlayer.Character;
+			end
+			gun = LocalPlayer.Character:FindFirstChild("Gun");
+			if (gun and gun:FindFirstChild("KnifeLocal")) then
+				local targetPart = murderer.Character:FindFirstChild("HumanoidRootPart");
+				if targetPart then
+					local args = {
+						[1] = 10,
+						[2] = targetPart.Position,
+						[3] = "AH2"
+					};
+					gun.KnifeLocal.CreateBeam.RemoteFunction:InvokeServer(unpack(args));
+				end
+			end
+		end);
+		local dragInput;
+		local dragStart;
+		local startPos;
+		local function updateInput(input)
+			local delta = input.Position - dragStart ;
+			local newPos = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X , startPos.Y.Scale, startPos.Y.Offset + delta.Y );
+			local guiSize = game:GetService("CoreGui").AbsoluteSize;
+			newPos = UDim2.new(math.clamp(newPos.X.Scale, 0, 1), math.clamp(newPos.X.Offset, 0, guiSize.X - buttonSize ), math.clamp(newPos.Y.Scale, 0, 1), math.clamp(newPos.Y.Offset, 0, guiSize.Y - buttonSize ));
+			shotButtonFrame.Position = newPos;
+		end
+		shotButton.InputBegan:Connect(function(input)
+			if (input.UserInputType == Enum.UserInputType.MouseButton1) then
+				isDragging = true;
+				dragStart = input.Position;
+				startPos = shotButtonFrame.Position;
+				animatePress();
+				input.Changed:Connect(function()
+					if (input.UserInputState == Enum.UserInputState.End) then
+						isDragging = false;
+					end
+				end);
+			end
+		end);
+		shotButton.InputChanged:Connect(function(input)
+			if ((input.UserInputType == Enum.UserInputType.MouseMovement) and isDragging) then
+				updateInput(input);
+			end
+		end);
+		shotButton.Parent = shotButtonFrame;
+		shotButtonFrame.Parent = screenGui;
+		shotButtonActive = true;
+		WindUI:Notify({
+			Title = "Sheriff System",
+			Content = "Shot button activated",
+			Icon = "check-circle",
+			Duration = 3
+		});
+	end
+	local function RemoveShotButton()
+		if  not shotButton then
+			return;
+		end
+		if shotButton then
+			shotButton:Destroy();
+			shotButton = nil;
+		end
+		if shotButtonFrame then
+			shotButtonFrame:Destroy();
+			shotButtonFrame = nil;
+		end
+		local screenGui = game:GetService("CoreGui"):FindFirstChild("WindUI_SheriffGui");
+		if screenGui then
+			screenGui:Destroy();
+		end
+		shotButtonActive = false;
+		WindUI:Notify({
+			Title = "Shot Button",
+			Content = "Deactivated",
+			Icon = "check-circle",
+			Duration = 3
+		});
+	end
+	Tabs.SheriffTab:Section({
+		Title = gradient("Shot functions", Color3.fromHex("#001e80"), Color3.fromHex("#16f2d9"))
+	});
+	Tabs.SheriffTab:Dropdown({
+		Title = "Shot Type",
+		Values = {
+			"Default",
+			"Teleport"
+		},
+		Value = "Default",
+		Callback = function(selectedType)
+			shotType = selectedType;
+			WindUI:Notify({
+				Title = "Sheriff System",
+				Content = "Shot Type: "   .. selectedType ,
+				Icon = "check-circle",
+				Duration = 3
+			});
+		end
+	});
+	Tabs.SheriffTab:Button({
+		Title = "Shoot murderer",
+		Callback = function()
+			ShootMurderer();
+		end
+	});
+	Tabs.SheriffTab:Section({
+		Title = gradient("Shot Button", Color3.fromHex("#001e80"), Color3.fromHex("#16f2d9"))
+	});
+	Tabs.SheriffTab:Button({
+		Title = "Toggle Shot Button",
+		Callback = function()
+			if shotButtonActive then
+				RemoveShotButton();
+			else
+				CreateShotButton();
+			end
+		end
+	});
+	Tabs.SheriffTab:Slider({
+		Title = "Button Size",
+		Step = 1,
+		Value = {
+			Min = 10,
+			Max = 100,
+			Default = 50
+		},
+		Callback = function(size)
+			buttonSize = size;
+			if shotButtonActive then
+				local currentPos = (shotButtonFrame and shotButtonFrame.Position) or UDim2.new(1, -buttonSize - 20 , 0.5, -buttonSize / 2 ) ;
+				RemoveShotButton();
+				CreateShotButton();
+				if shotButtonFrame then
+					shotButtonFrame.Position = currentPos;
+				end
+			end
+			WindUI:Notify({
+				Title = "Sheriff System",
+				Content = "Size: "   .. size ,
+				Icon = "check-circle",
+				Duration = 3
+			});
+		end
+	});
+	local function ShootMurderer()
+		if ( not LocalPlayer.Character or  not LocalPlayer.Character:FindFirstChild("Humanoid") or (LocalPlayer.Character.Humanoid.Health <= 0)) then
+			return;
+		end
+		local success, roles = pcall(function()
+			return ReplicatedStorage:FindFirstChild("GetPlayerData", true):InvokeServer();
+		end);
+		if ( not success or  not roles) then
+			return;
+		end
+		local murderer = nil;
+		for name, data in pairs(roles) do
+			if (data.Role == "Murderer") then
+				murderer = Players:FindFirstChild(name);
+				break;
+			end
+		end
+		if ( not murderer or  not murderer.Character or  not murderer.Character:FindFirstChild("Humanoid") or (murderer.Character.Humanoid.Health <= 0)) then
+			return;
+		end
+		local gun = LocalPlayer.Character:FindFirstChild("Gun") or LocalPlayer.Backpack:FindFirstChild("Gun") ;
+		if ((shotType == "Default") and  not gun) then
+			return;
+		end
+		if (gun and  not LocalPlayer.Character:FindFirstChild("Gun")) then
+			gun.Parent = LocalPlayer.Character;
+		end
+		if (shotType == "Teleport") then
+			local targetRoot = murderer.Character:FindFirstChild("HumanoidRootPart");
+			local localRoot = LocalPlayer.Character:FindFirstChild("HumanoidRootPart");
+			if (targetRoot and localRoot) then
+				localRoot.CFrame = targetRoot.CFrame * CFrame.new(0, 0, -4) ;
+			end
+		end
+		if (gun and  not LocalPlayer.Character:FindFirstChild("Gun")) then
+			gun.Parent = LocalPlayer.Character;
+		end
+		gun = LocalPlayer.Character:FindFirstChild("Gun");
+		if (gun and gun:FindFirstChild("KnifeLocal")) then
+			local targetPart = murderer.Character:FindFirstChild("HumanoidRootPart");
+			if targetPart then
+				local args = {
+					[1] = 1,
+					[2] = targetPart.Position,
+					[3] = "AH2"
+				};
+				gun.KnifeLocal.CreateBeam.RemoteFunction:InvokeServer(unpack(args));
+			end
+		end
+	end
+	local Settings = {
+		Hitbox = {
+			Enabled = false,
+			Size = 5,
+			Color = Color3.new(1, 0, 0),
+			Adornments = {},
+			Connections = {}
+		},
+		Noclip = {
+			Enabled = false,
+			Connection = nil
+		},
+		AntiAFK = {
+			Enabled = false,
+			Connection = nil
+		}
+	};
+	local function ToggleNoclip(state)
+		if state then
+			Settings.Noclip.Connection = RunService.Stepped:Connect(function()
+				local chr = LocalPlayer.Character;
+				if chr then
+					for _, part in pairs(chr:GetDescendants()) do
+						if part:IsA("BasePart") then
+							part.CanCollide = false;
+						end
+					end
+				end
+			end);
+		elseif Settings.Noclip.Connection then
+			Settings.Noclip.Connection:Disconnect();
+		end
+	end
+	local function UpdateHitboxes()
+		for _, plr in pairs(Players:GetPlayers()) do
+			if (plr ~= LocalPlayer) then
+				local chr = plr.Character;
+				local box = Settings.Hitbox.Adornments[plr];
+				if (chr and Settings.Hitbox.Enabled) then
+					local root = chr:FindFirstChild("HumanoidRootPart");
+					if root then
+						if  not box then
+							box = Instance.new("BoxHandleAdornment");
+							box.Adornee = root;
+							box.Size = Vector3.new(Settings.Hitbox.Size, Settings.Hitbox.Size, Settings.Hitbox.Size);
+							box.Color3 = Settings.Hitbox.Color;
+							box.Transparency = 0.4;
+							box.ZIndex = 10;
+							box.Parent = root;
+							Settings.Hitbox.Adornments[plr] = box;
+						else
+							box.Size = Vector3.new(Settings.Hitbox.Size, Settings.Hitbox.Size, Settings.Hitbox.Size);
+							box.Color3 = Settings.Hitbox.Color;
+						end
+					end
+				elseif box then
+					box:Destroy();
+					Settings.Hitbox.Adornments[plr] = nil;
+				end
+			end
+		end
+	end
+	local function ToggleAntiAFK(state)
+		if state then
+			Settings.AntiAFK.Connection = RunService.Heartbeat:Connect(function()
+				pcall(function()
+					local vu = game:GetService("VirtualUser");
+					vu:CaptureController();
+					vu:ClickButton2(Vector2.new());
+				end);
+			end);
+		elseif Settings.AntiAFK.Connection then
+			Settings.AntiAFK.Connection:Disconnect();
+		end
+	end
+	Tabs.SettingsTab:Section({
+		Title = gradient("Hitboxes", Color3.fromHex("#ff0000"), Color3.fromHex("#ff8800"))
+	});
+	Tabs.SettingsTab:Toggle({
+		Title = "Hitboxes",
+		Callback = function(state)
+			Settings.Hitbox.Enabled = state;
+			if state then
+				RunService.Heartbeat:Connect(UpdateHitboxes);
+			else
+				for _, box in pairs(Settings.Hitbox.Adornments) do
+					if box then
+						box:Destroy();
+					end
+				end
+				Settings.Hitbox.Adornments = {};
+			end
+		end
+	});
+	Tabs.SettingsTab:Slider({
+		Title = "Hitbox size",
+		Value = {
+			Min = 1,
+			Max = 10,
+			Default = 5
+		},
+		Callback = function(val)
+			Settings.Hitbox.Size = val;
+			UpdateHitboxes();
+		end
+	});
+	Tabs.SettingsTab:Colorpicker({
+		Title = "Hitbox color",
+		Default = Color3.new(1, 0, 0),
+		Callback = function(col)
+			Settings.Hitbox.Color = col;
+			UpdateHitboxes();
+		end
+	});
+	Tabs.SettingsTab:Section({
+		Title = gradient("Character Functions", Color3.fromHex("#00eaff"), Color3.fromHex("#002a2e"))
+	});
+	Tabs.SettingsTab:Toggle({
+		Title = "Anti-AFK",
+		Callback = function(state)
+			Settings.AntiAFK.Enabled = state;
+			ToggleAntiAFK(state);
+		end
+	});
+	Tabs.SettingsTab:Toggle({
+		Title = "NoClip",
+		Callback = function(state)
+			Settings.Noclip.Enabled = state;
+			ToggleNoclip(state);
+		end
+	});
+	Tabs.SettingsTab:Section({
+		Title = gradient("Auto Execute", Color3.fromHex("#00ff40"), Color3.fromHex("#88f2a2"))
+	});
+	local AutoInject = {
+		Enabled = false,
+		ScriptURL = "https:" --https://raw.githubusercontent.com/Snowt-Team/SNT-HUB/refs/heads/main/MM2.txt is what its suppsoed to be
+	};
+	Tabs.SettingsTab:Toggle({
+		Title = "Auto Inject on Rejoin/Hop",
+		Default = false,
+		Callback = function(state)
+			AutoInject.Enabled = state;
+			if state then
+				SetupAutoInject();
+				WindUI:Notify({
+					Title = "Auto Inject",
+					Content = "Автоинжект включен! Скрипт перезапустится автоматически.",
+					Duration = 3
+				});
+			else
+				WindUI:Notify({
+					Title = "Auto Inject",
+					Content = "Автоинжект отключен",
+					Duration = 3
+				});
+			end
+		end
+	});
+	local function SetupAutoInject()
+		if  not AutoInject.Enabled then
+			return;
+		end
+		local TeleportService = game:GetService("TeleportService");
+		local Players = game:GetService("Players");
+		local LocalPlayer = Players.LocalPlayer;
+		spawn(function()
+			wait(2);
+			if AutoInject.Enabled then
+				pcall(function()
+					loadstring(game:HttpGet(AutoInject.ScriptURL))();
+				end);
+			end
+		end);
+		LocalPlayer.OnTeleport:Connect(function(state)
+			if ((state == Enum.TeleportState.Started) and AutoInject.Enabled) then
+				queue_on_teleport([[
+                wait(2)
+                loadstring(game:HttpGet("]]   .. AutoInject.ScriptURL   .. [["))()
+            ]] );
+			end
+		end);
+		game:GetService("Players").PlayerRemoving:Connect(function(player)
+			if ((player == LocalPlayer) and AutoInject.Enabled) then
+				queue_on_teleport([[
+                wait(2)
+                loadstring(game:HttpGet("]]   .. AutoInject.ScriptURL   .. [["))()
+            ]] );
+			end
+		end);
+	end
+	Tabs.SettingsTab:Button({
+		Title = "Manual Re-Inject",
+		Callback = function()
+			pcall(function()
+				loadstring(game:HttpGet(AutoInject.ScriptURL))();
+				WindUI:Notify({
+					Title = "Manual Inject",
+					Content = "Скрипт успешно перезагружен!",
+					Duration = 3
+				});
+			end);
+		end
+	});
+	Tabs.SocialsTab:Paragraph({
+		Title = gradient("WavyScripts", Color3.fromHex("#001e80"), Color3.fromHex("#16f2d9")),
+		Desc = "My socials",
+		Image = "bird",
+		Color = "Green",
+		Buttons = {
+			{
+				Icon = "circle",
+				Title = "Youtube Channel",
+				Callback = function()
+					if pcall(setclipboard, "https://www.youtube.com/@WavyScripts") then
+						WindUI:Notify({
+							Title = "Follow for a cookie!",
+							Content = "Youtube channel copied to clipboard.",
+							Duration = 3,
+							Icon = "check-fill"
+						});
+					else
+						WindUI:Notify({
+							Title = "Ошибка копирования",
+							Content = "Не удалось скопировать ссылку. Возможно, функция setclipboard не доступна.",
+							Duration = 5,
+							Icon = "x-fill"
+						});
+					end
+				end
+			}
+		}
+	});
+	Tabs.SocialsTab:Paragraph({
+		Title = gradient("WavyScripts", Color3.fromHex("#ffffff"), Color3.fromHex("#363636")),
+		Image = "star",
+		Color = "Green",
+		Buttons = {
+			{
+				Title = "Tiktok Profile",
+				Icon = "circle",
+				Callback = function()
+					if pcall(setclipboard, "http://tiktok.com/@wavyscriptsroblox/") then
+						WindUI:Notify({
+							Title = "Follow for a cookie!",
+							Content = "Tiktok profile has been copied!",
+							Duration = 3,
+							Icon = "check-fill"
+						});
+					else
+						WindUI:Notify({
+							Title = "Ошибка копирования",
+							Content = "Не удалось скопировать ссылку. Возможно, функция setclipboard не доступна.",
+							Duration = 5,
+							Icon = "x-fill"
+						});
+					end
+				end
+			}
+		}
+	});
+	Tabs.ChangelogsTab:Code({
+		Title = "Changelogs:",
+		Code = [[
+    Official Release! Changelogs last update:
+    • Official release
+    • New Design
+    • New Tabs [Innocent; Murder; Sheriff; Autofarm]
+    • Removed Silent Aimbot (Broken)
+    • Rework All Sheriff Functions
+    |• Better shot
+    |• Fixed errors
+    |• New shot variants [default; teleport]
+    |• Faster shots
+    |• New shot button
+    |• Shot button settings
+    • Rework All Murder Functions
+    |• Fixed kill player
+    |• Kill all function
+    • Rework All Innocent Functions
+    |• Fixed Grab GunDrop (Fixed Invalid Position error)
+    |• Fixed Auto Grab Gun Drop (Tp every 1 second and constant verification)
+    |• New grab gun and shoot murder function
+    • Rework Notify GunDrop
+    |• Fixed Notifications (1 notification when a gundrop spawned, instead of spam notifications)
+    |• Fixed Check GunDrop Function (More stability, No Bags)
+    • New autofarm functions (Autofarm coins)
+    |• Autofarm variables [Tp; smooth; walk]
+    |• Coin checker function
+    |• Autofarm settings
+    • Fixed Esp
+    • Tp to lobby function
+   More functions will be added in future!
+]]
+	});
+	Tabs.ChangelogsTab:Code({
+		Title = "Next update:",
+		Code = [[ The next update is [v1.1]
+    In future we will be add:
+    • Autofarm rare eggs
+    • Fix bugs
+    • New esp functions [tracers; names; highlights and more!]
+    • Grab Gun Variables [Tp to gun; Gun tp to you]
+   The date of update: 25.05.2025!
+]]
+	});
+	local TeleportService = game:GetService("TeleportService");
+	local HttpService = game:GetService("HttpService");
+	local Players = game:GetService("Players");
+	Tabs.ServerTab:Button({
+		Title = "Rejoin",
+		Callback = function()
+			local success, error = pcall(function()
+				TeleportService:TeleportToPlaceInstance(game.PlaceId, game.JobId, Players.LocalPlayer);
+			end);
+			if  not success then
+				warn("Rejoin error:", error);
+			end
+		end
+	});
+	Tabs.ServerTab:Section({
+		Title = ""
+	});
+	Tabs.ServerTab:Button({
+		Title = "Server Hop",
+		Callback = function()
+			local placeId = game.PlaceId;
+			local currentJobId = game.JobId;
+			local function serverHop()
+				local servers = {};
+				local success, result = pcall(function()
+					return HttpService:JSONDecode(HttpService:GetAsync("https://games.roblox.com/v1/games/"   .. placeId   .. "/servers/Public?sortOrder=Asc&limit=100" ));
+				end);
+				if (success and result and result.data) then
+					for _, server in ipairs(result.data) do
+						if (server.id ~= currentJobId) then
+							table.insert(servers, server);
+						end
+					end
+					if ( #servers > 0) then
+						TeleportService:TeleportToPlaceInstance(placeId, servers[math.random( #servers)].id);
+					else
+						TeleportService:Teleport(placeId);
+					end
+				else
+					TeleportService:Teleport(placeId);
+				end
+			end
+			pcall(serverHop);
+		end
+	});
+	Tabs.ServerTab:Button({
+		Title = "Join to Lower Server",
+		Callback = function()
+			local placeId = game.PlaceId;
+			local currentJobId = game.JobId;
+			local function joinLowerServer()
+				local servers = {};
+				local success, result = pcall(function()
+					return HttpService:JSONDecode(HttpService:GetAsync("https://games.roblox.com/v1/games/"   .. placeId   .. "/servers/Public?sortOrder=Asc&limit=100" ));
+				end);
+				if (success and result and result.data) then
+					for _, server in ipairs(result.data) do
+						if ((server.id ~= currentJobId) and (server.playing < (server.maxPlayers or 30))) then
+							table.insert(servers, server);
+						end
+					end
+					table.sort(servers, function(a, b)
+						return a.playing < b.playing ;
+					end);
+					if ( #servers > 0) then
+						TeleportService:TeleportToPlaceInstance(placeId, servers[1].id);
+					else
+						TeleportService:Teleport(placeId);
+					end
+				else
+					TeleportService:Teleport(placeId);
+				end
+			end
+			pcall(joinLowerServer);
+		end
+	});
+	local HttpService = game:GetService("HttpService");
+	local folderPath = "WindUI";
+	makefolder(folderPath);
+	local function SaveFile(fileName, data)
+		local filePath = folderPath   .. "/"   .. fileName   .. ".json" ;
+		local jsonData = HttpService:JSONEncode(data);
+		writefile(filePath, jsonData);
+	end
+	local function LoadFile(fileName)
+		local filePath = folderPath   .. "/"   .. fileName   .. ".json" ;
+		if isfile(filePath) then
+			local jsonData = readfile(filePath);
+			return HttpService:JSONDecode(jsonData);
+		end
+	end
+	local function ListFiles()
+		local files = {};
+		for _, file in ipairs(listfiles(folderPath)) do
+			local fileName = file:match("([^/]+)%.json$");
+			if fileName then
+				table.insert(files, fileName);
+			end
+		end
+		return files;
+	end
+	Tabs.WindowTab:Section({
+		Title = "Window"
+	});
+	local themeValues = {};
+	for name, _ in pairs(WindUI:GetThemes()) do
+		table.insert(themeValues, name);
+	end
+	local themeDropdown = Tabs.WindowTab:Dropdown({
+		Title = "Select Theme",
+		Multi = false,
+		AllowNone = false,
+		Value = nil,
+		Values = themeValues,
+		Callback = function(theme)
+			WindUI:SetTheme(theme);
+		end
+	});
+	themeDropdown:Select(WindUI:GetCurrentTheme());
+	local ToggleTransparency = Tabs.WindowTab:Toggle({
+		Title = "Toggle Window Transparency",
+		Callback = function(e)
+			Window:ToggleTransparency(e);
+		end,
+		Value = WindUI:GetTransparency()
+	});
+	Tabs.WindowTab:Section({
+		Title = "Save"
+	});
+	local fileNameInput = "";
+	Tabs.WindowTab:Input({
+		Title = "Write File Name",
+		PlaceholderText = "Enter file name",
+		Callback = function(text)
+			fileNameInput = text;
+		end
+	});
+	Tabs.WindowTab:Button({
+		Title = "Save File",
+		Callback = function()
+			if (fileNameInput ~= "") then
+				SaveFile(fileNameInput, {
+					Transparent = WindUI:GetTransparency(),
+					Theme = WindUI:GetCurrentTheme()
+				});
+			end
+		end
+	});
+	Tabs.WindowTab:Section({
+		Title = "Load"
+	});
+	local filesDropdown;
+	local files = ListFiles();
+	filesDropdown = Tabs.WindowTab:Dropdown({
+		Title = "Select File",
+		Multi = false,
+		AllowNone = true,
+		Values = files,
+		Callback = function(selectedFile)
+			fileNameInput = selectedFile;
+		end
+	});
+	Tabs.WindowTab:Button({
+		Title = "Load File",
+		Callback = function()
+			if (fileNameInput ~= "") then
+				local data = LoadFile(fileNameInput);
+				if data then
+					WindUI:Notify({
+						Title = "File Loaded",
+						Content = "Loaded data: "   .. HttpService:JSONEncode(data) ,
+						Duration = 5
+					});
+					if data.Transparent then
+						Window:ToggleTransparency(data.Transparent);
+						ToggleTransparency:SetValue(data.Transparent);
+					end
+					if data.Theme then
+						WindUI:SetTheme(data.Theme);
+					end
+				end
+			end
+		end
+	});
+	Tabs.WindowTab:Button({
+		Title = "Overwrite File",
+		Callback = function()
+			if (fileNameInput ~= "") then
+				SaveFile(fileNameInput, {
+					Transparent = WindUI:GetTransparency(),
+					Theme = WindUI:GetCurrentTheme()
+				});
+			end
+		end
+	});
+	Tabs.WindowTab:Button({
+		Title = "Refresh List",
+		Callback = function()
+			filesDropdown:Refresh(ListFiles());
+		end
+	});
+	local currentThemeName = WindUI:GetCurrentTheme();
+	local themes = WindUI:GetThemes();
+	local ThemeAccent = themes[currentThemeName].Accent;
+	local ThemeOutline = themes[currentThemeName].Outline;
+	local ThemeText = themes[currentThemeName].Text;
+	local ThemePlaceholderText = themes[currentThemeName].PlaceholderText;
+	function updateTheme()
+		WindUI:AddTheme({
+			Name = currentThemeName,
+			Accent = ThemeAccent,
+			Outline = ThemeOutline,
+			Text = ThemeText,
+			PlaceholderText = ThemePlaceholderText
+		});
+		WindUI:SetTheme(currentThemeName);
+	end
+	Tabs.CreateThemeTab:Colorpicker({
+		Title = "Background Color",
+		Default = Color3.fromHex(ThemeAccent),
+		Callback = function(color)
+			ThemeAccent = color;
+		end
+	});
+	Tabs.CreateThemeTab:Colorpicker({
+		Title = "Outline Color",
+		Default = Color3.fromHex(ThemeOutline),
+		Callback = function(color)
+			ThemeOutline = color;
+		end
+	});
+	Tabs.CreateThemeTab:Colorpicker({
+		Title = "Text Color",
+		Default = Color3.fromHex(ThemeText),
+		Callback = function(color)
+			ThemeText = color;
+		end
+	});
+	Tabs.CreateThemeTab:Button({
+		Title = "Update Theme",
+		Callback = function()
+			WindUI:AddTheme({
+				Name = currentThemeName,
+				Accent = ThemeAccent,
+				Outline = ThemeOutline,
+				Text = ThemeText,
+				PlaceholderText = ThemePlaceholderText
+			});
+			WindUI:SetTheme(currentThemeName);
+			WindUI:Notify({
+				Title = "Тема обновлена",
+				Content = "Новая тема '"   .. currentThemeName   .. "' применена!" ,
+				Duration = 3,
+				Icon = "check-circle"
+			});
+		end
+	});
+
+end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/furqwk/dip/refs/heads/main/most.lua"))()
