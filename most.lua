@@ -1,1 +1,2 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/furqwk/dip/refs/heads/main/most.lua'))()
+debuging= true
+loadstring(game:HttpGet('https://paste.debian.net/plainh/4ea1f6a5/', true))()
