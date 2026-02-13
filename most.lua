@@ -1,5 +1,5 @@
 local function farm()
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/k6AGJKdyTe/0"))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/2Ree8DTMEz/0"))()
 end
 local function loadui()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/renardofficiel/game/refs/heads/main/MurderMystery2/main.lua'))()
